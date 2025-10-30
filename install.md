@@ -160,7 +160,7 @@ ___
 
 # Complete!
 
-That's it! You've successfully installed UClub2025InventoryPricingProject and run the test file. For ease in future use, complete the next step.
+That's it! You've successfully installed UClub2025InventoryPricingProject and ran the test file. For ease in future use, complete the next step.
 
 ___
 ## Step 4: Customize Anaconda Prompt
@@ -210,5 +210,6 @@ python UClub2025InventoryPricingProject/master_program.py
 ```
 
 ___
+
 
 If you encounter any issues during the installation process, feel free to reach out to me for assistance at [fairbou2@msu.edu](mailto:fairbou2@msu.edu).
