@@ -1,0 +1,7566 @@
+{
+  "SYSCO, 4184453.0": {
+    "ITEM_DESC": [
+      "GRAPE JELLY"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        1
+      ]
+    ],
+    "PRICES": [
+      7.25
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4186441.0": {
+    "ITEM_DESC": [
+      "ORANGE MARMELADE",
+      "ORANGE MARMELADE"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        2
+      ],
+      [
+        "STOREROOM",
+        124
+      ]
+    ],
+    "PRICES": [
+      48.51,
+      48.51
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4006797.0": {
+    "ITEM_DESC": [
+      "MUSTARD YELLOW PREPARED"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        3
+      ]
+    ],
+    "PRICES": [
+      "$7.88 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 1821529.0": {
+    "ITEM_DESC": [
+      "SHALLOT PEELED FRESH"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        22
+      ]
+    ],
+    "PRICES": [
+      "33.76"
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 873301.0": {
+    "ITEM_DESC": [
+      "CHEESE PARMESAN SHREDDED FANCY",
+      "CHEESE PARMESAN SHREDDED FANCY"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        30
+      ],
+      [
+        "GARDE MANGER COOLER",
+        64
+      ]
+    ],
+    "PRICES": [
+      "109.08",
+      "109.08"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/JIMMY DEAN, 1494079.0": {
+    "ITEM_DESC": [
+      "SAUSAGE LINKS 1 OZ",
+      "SAUSAGE LINKS 1 OZ"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        33
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        66
+      ]
+    ],
+    "PRICES": [
+      "48.39",
+      "48.39"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 5131869.0": {
+    "ITEM_DESC": [
+      "BASEBALL STEAK 6OZ"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        36
+      ]
+    ],
+    "PRICES": [
+      19.61
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUTCHER'S BLOCK, 4230967.0": {
+    "ITEM_DESC": [
+      "BEEF RIBEYE LIP-ON BONELESS",
+      "BEEF RIBEYE LIP-ON BONELESS"
+    ],
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        73
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        45
+      ]
+    ],
+    "PRICES": [
+      "13.285",
+      "13.285"
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/PORTICO, 7154725.0": {
+    "ITEM_DESC": [
+      "PERCH FILLET YELLOW SPLIT MEDIUM"
+    ],
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      "$150.53 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MAPLE LEAF, 7174697.0": {
+    "ITEM_DESC": [
+      "DUCK BREAST"
+    ],
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        9
+      ]
+    ],
+    "PRICES": [
+      "18.101"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MORNINGSTAR FARMS, 6196026.0": {
+    "ITEM_DESC": [
+      "PATTY VEGETABLE BLACK BEAN SPICY"
+    ],
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        12
+      ]
+    ],
+    "PRICES": [
+      "$69.49 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3012483.0": {
+    "ITEM_DESC": [
+      "TOBIKO ORANGE CAVIAR 1#"
+    ],
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        17
+      ]
+    ],
+    "PRICES": [
+      27.06
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 4390807.0": {
+    "ITEM_DESC": [
+      "POTATO FRY SWEET WAFFLE BATTERED",
+      "POTATO FRY SWEET WAFFLE BATTERED"
+    ],
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        2
+      ],
+      [
+        "BASEMENT FREEZER",
+        47
+      ]
+    ],
+    "PRICES": [
+      "46.4",
+      "46.4"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 4227104.0": {
+    "ITEM_DESC": [
+      "DRAKES CRISPY FRY MIX",
+      "DRAKES CRISPY FRY MIX"
+    ],
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        5
+      ],
+      [
+        "STOREROOM",
+        47
+      ]
+    ],
+    "PRICES": [
+      51.99,
+      51.99
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE OF FLAVORS, 2589018.0": {
+    "ITEM_DESC": [
+      "ICE CREAM MOOSE TRACKS"
+    ],
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      "$31.80 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ASHBY'S, 2179905.0": {
+    "ITEM_DESC": [
+      "ICE CREAM CHOCOLATE",
+      "ICE CREAM CHOCOLATE"
+    ],
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        2
+      ],
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      "35.13",
+      "35.13"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/ASHBY'S, 2471789.0": {
+    "ITEM_DESC": [
+      "ICE CREAM VANILLA PREMIUM"
+    ],
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      "37.22"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE OF FLAVORS, 7015506.0": {
+    "ITEM_DESC": [
+      "ICE CREAM SORBETO RASPBERRY"
+    ],
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      "$27.80 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PACKER, 2099315.0": {
+    "ITEM_DESC": [
+      "ICE CREAM BLUE MOON"
+    ],
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        5
+      ]
+    ],
+    "PRICES": [
+      "25.85"
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9011453.0": {
+    "ITEM_DESC": [
+      "RADISH WATERMELON"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        9
+      ]
+    ],
+    "PRICES": [
+      3.87
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7454895.0": {
+    "ITEM_DESC": [
+      "CORNICHONS",
+      "CORNICHONS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        10
+      ],
+      [
+        "GARDE MANGER COOLER",
+        29
+      ]
+    ],
+    "PRICES": [
+      45.63,
+      45.63
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 9869108.0": {
+    "ITEM_DESC": [
+      "HORSERADISH WHITE PREPARED",
+      "HORSERADISH WHITE PREPARED"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        11
+      ],
+      [
+        "BASEMENT WALK IN",
+        24
+      ]
+    ],
+    "PRICES": [
+      "$42.27 ",
+      "$42.27 "
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 8425001.0": {
+    "ITEM_DESC": [
+      "PEPPER BANANA PEPPER RINGS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        30
+      ]
+    ],
+    "PRICES": [
+      10.67
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 5429766.0": {
+    "ITEM_DESC": [
+      "OLIVE KALAMATA PITTED PLASTIC KEG"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        31
+      ]
+    ],
+    "PRICES": [
+      "36.27"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 7097100.0": {
+    "ITEM_DESC": [
+      "OLIVES GREEN QUEEN PITTED 100/120 CT",
+      "OLIVES GREEN QUEEN PITTED 100/120 CT",
+      "OLIVES GREEN QUEEN PITTED 100/120 CT"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        32
+      ],
+      [
+        "BASEMENT WALK IN",
+        18
+      ],
+      [
+        "STOREROOM",
+        118
+      ]
+    ],
+    "PRICES": [
+      "43.57",
+      "43.57",
+      "43.57"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 5287194.0": {
+    "ITEM_DESC": [
+      "PICKLE WHOLE KOSHER 60/65 CT"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        34
+      ]
+    ],
+    "PRICES": [
+      "32.07"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/COOL CRISP, 353835.0": {
+    "ITEM_DESC": [
+      "PICKLE SLICED SWEET HOTTIES"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        36
+      ]
+    ],
+    "PRICES": [
+      "24.95"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/KEN'S, 8476732.0": {
+    "ITEM_DESC": [
+      "DRESSING VINAIGRETTE APPLE CIDER",
+      "DRESSING VINAIGRETTE APPLE CIDER"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        45
+      ],
+      [
+        "BASEMENT WALK IN",
+        47
+      ]
+    ],
+    "PRICES": [
+      "20.81",
+      "20.81"
+    ],
+    "UNITS": [
+      "EACH",
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 4945721.0": {
+    "ITEM_DESC": [
+      "DRESSING ITALIAN GREGGORIO HOUSE"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        49
+      ]
+    ],
+    "PRICES": [
+      "84.54"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HIDDEN VALLEY RANCH, 6828448.0": {
+    "ITEM_DESC": [
+      "DRESSING MIX RANCH BUTTERMILK NO MSG",
+      "DRESSING MIX RANCH BUTTERMILK NO MSG"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        51
+      ],
+      [
+        "GARDE MANGER STATION",
+        11
+      ]
+    ],
+    "PRICES": [
+      "48.07",
+      "48.07"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 4099418.0": {
+    "ITEM_DESC": [
+      "CHEESE MOZZARELLA FRESH LOG SLICED CRYOVAC"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        56
+      ]
+    ],
+    "PRICES": [
+      "37.36"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 2491751.0": {
+    "ITEM_DESC": [
+      "CHEESE MOZZARELLA CILIEGEN FRESH"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        57
+      ]
+    ],
+    "PRICES": [
+      "33.48"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 5440201.0": {
+    "ITEM_DESC": [
+      "CHEESE COTTAGE SMALL CURD 4%"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        59
+      ]
+    ],
+    "PRICES": [
+      "47.02"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/GRECIAN DELIGHT, 779593.0": {
+    "ITEM_DESC": [
+      "DIP HUMMUS FRESH TRADITIONAL"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        60
+      ]
+    ],
+    "PRICES": [
+      "31.88"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 7268538.0": {
+    "ITEM_DESC": [
+      "CHEESE PARMESAN GRATED",
+      "CHEESE PARMESAN GRATED"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        61
+      ],
+      [
+        "BASEMENT WALK IN",
+        64
+      ]
+    ],
+    "PRICES": [
+      "42.04",
+      "42.04"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 248807.0": {
+    "ITEM_DESC": [
+      "CHEESE CUBED CHEDDAR SWISS PEPPER JACK"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        75
+      ]
+    ],
+    "PRICES": [
+      "60.95"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PACKER, 8009714.0": {
+    "ITEM_DESC": [
+      "CHEESE CHEDDAR SMOKED 2.25 LB",
+      "CHEESE CHEDDAR SMOKED 2.25 LB"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        81
+      ],
+      [
+        "BASEMENT WALK IN",
+        54
+      ]
+    ],
+    "PRICES": [
+      "4.621",
+      "4.621"
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/LIFE & PROVENCE, 2520415.0": {
+    "ITEM_DESC": [
+      "CHEESE SPREAD GARLIC & HERB EUROCREME"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        85
+      ]
+    ],
+    "PRICES": [
+      "43.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2463164.0": {
+    "ITEM_DESC": [
+      "GRAPES"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        106
+      ]
+    ],
+    "PRICES": [
+      17.39
+    ],
+    "UNITS": [
+      "cs / 4lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2005122.0": {
+    "ITEM_DESC": [
+      "DILL"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        114
+      ]
+    ],
+    "PRICES": [
+      8.26
+    ],
+    "UNITS": [
+      "cs / 8 oz"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2004927.0": {
+    "ITEM_DESC": [
+      "SAGE"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        120
+      ]
+    ],
+    "PRICES": [
+      9.94
+    ],
+    "UNITS": [
+      "cs / 8 oz"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 2527836.0": {
+    "ITEM_DESC": [
+      "GRAPEFRUIT SECTION LT SYRUP"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        144
+      ]
+    ],
+    "PRICES": [
+      "24.76"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4888574.0": {
+    "ITEM_DESC": [
+      "WALNUT HALVES & PIECES"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        1
+      ]
+    ],
+    "PRICES": [
+      "60.01"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7102403.0": {
+    "ITEM_DESC": [
+      "DRIED CRANBERRIES"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        3
+      ]
+    ],
+    "PRICES": [
+      22.44
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6742647.0": {
+    "ITEM_DESC": [
+      "DRIED APRICOT",
+      "DRIED APRICOT"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        4
+      ],
+      [
+        "BASEMENT WALK IN",
+        11
+      ]
+    ],
+    "PRICES": [
+      36.66,
+      36.66
+    ],
+    "UNITS": [
+      "cs 1/5lb",
+      "cs 1/5lb"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 5889720.0": {
+    "ITEM_DESC": [
+      "SUNDRIED TOMATOES"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        5
+      ]
+    ],
+    "PRICES": [
+      60.44
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1967421.0": {
+    "ITEM_DESC": [
+      "UNSWEETENED PINEAPPLE RINGS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        6
+      ]
+    ],
+    "PRICES": [
+      32.99
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 344301.0": {
+    "ITEM_DESC": [
+      "POMEGRANATE ARILS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        7
+      ]
+    ],
+    "PRICES": [
+      100.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PEPPERIDGE FARM, 4200036.0": {
+    "ITEM_DESC": [
+      "CRACKER ASSORTED"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        8
+      ]
+    ],
+    "PRICES": [
+      "62.94"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4246336.0": {
+    "ITEM_DESC": [
+      "CARRS CRACKERS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        9
+      ]
+    ],
+    "PRICES": [
+      61.27
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1691577.0": {
+    "ITEM_DESC": [
+      "SESAME RICE THINS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        10
+      ]
+    ],
+    "PRICES": [
+      33.65
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6365967.0": {
+    "ITEM_DESC": [
+      "MIXED NUT CASHEW",
+      "MIXED NUT CASHEW"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        12
+      ],
+      [
+        "STOREROOM",
+        198
+      ]
+    ],
+    "PRICES": [
+      58.64,
+      58.64
+    ],
+    "UNITS": [
+      "cs 1/5lb",
+      "cs 1/5lb"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 1698461.0": {
+    "ITEM_DESC": [
+      "PUMPKIN SEEDS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        13
+      ]
+    ],
+    "PRICES": [
+      28.14
+    ],
+    "UNITS": [
+      "cs 1/5lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7762329.0": {
+    "ITEM_DESC": [
+      "CROUTONS"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        14
+      ]
+    ],
+    "PRICES": [
+      56.64
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 7102205.0": {
+    "ITEM_DESC": [
+      "CHERRY DRIED"
+    ],
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        15
+      ]
+    ],
+    "PRICES": [
+      "53.97"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ACE BAKERY LTD, 7267449.0": {
+    "ITEM_DESC": [
+      "BUN HMBRGR CLS SLIDER 3 INCH"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      "73.5"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7276171.0": {
+    "ITEM_DESC": [
+      "FRENCH DIP DEMI BAGUETTE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        2
+      ]
+    ],
+    "PRICES": [
+      42.74
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5257690.0": {
+    "ITEM_DESC": [
+      "6OZ SIRLOIN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        8
+      ]
+    ],
+    "PRICES": [
+      22.43
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BAKER'S SOURCE, 2452211.0": {
+    "ITEM_DESC": [
+      "BREAD TEXAS TOAST WHITE SLICED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        19
+      ]
+    ],
+    "PRICES": [
+      "35.06"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SIMPLOT ROASTWORKS, 4273470.0": {
+    "ITEM_DESC": [
+      "BEANS BLACK WITH CORN FLAME ROASTED FIESTA",
+      "BEANS BLACK WITH CORN FLAME ROASTED FIESTA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        20
+      ],
+      [
+        "STOREROOM",
+        113
+      ]
+    ],
+    "PRICES": [
+      "$35.66 ",
+      "$35.66 "
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 3755709.0": {
+    "ITEM_DESC": [
+      "SAUSAGE PORK PATTY WHOLE HOG RAW"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        25
+      ]
+    ],
+    "PRICES": [
+      "48"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5393236.0": {
+    "ITEM_DESC": [
+      "TURKEY SAUSAGE LINK"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        26
+      ]
+    ],
+    "PRICES": [
+      45.13
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6820880.0": {
+    "ITEM_DESC": [
+      "FLAT BREAD",
+      "FLAT BREAD"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        28
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        71
+      ]
+    ],
+    "PRICES": [
+      76.09,
+      76.09
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/STONEFIRE, 5960921.0": {
+    "ITEM_DESC": [
+      "BREAD NAAN TANDOORI TEARDROP"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        30
+      ]
+    ],
+    "PRICES": [
+      "44.86"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/STOUFFER, 1013986.0": {
+    "ITEM_DESC": [
+      "ENTREE LASAGNA MEAT"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        34
+      ]
+    ],
+    "PRICES": [
+      "101.23"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 7188875.0": {
+    "ITEM_DESC": [
+      "PASTA TORTELLONI 4 CHEESE GLUTEN FREE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        35
+      ]
+    ],
+    "PRICES": [
+      "63.91"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 5224393.0": {
+    "ITEM_DESC": [
+      "TOMATO RSTD YEL WEDGES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        37
+      ]
+    ],
+    "PRICES": [
+      "59.26"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7028548.0": {
+    "ITEM_DESC": [
+      "ROASTED SWEET VEG MEDLEY"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        38
+      ]
+    ],
+    "PRICES": [
+      40.14
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SIGNATURE FOODS, 5860097.0": {
+    "ITEM_DESC": [
+      "BREAD BAGUETTE CRUSTY PARBAKED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        42
+      ]
+    ],
+    "PRICES": [
+      "36.65"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MOORES, 9474859.0": {
+    "ITEM_DESC": [
+      "ONION RING TANGLERS FLOUR BREADED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        43
+      ]
+    ],
+    "PRICES": [
+      "$44.35 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LAMB WESTON, 1516350.0": {
+    "ITEM_DESC": [
+      "POTATO FRY CRISSCUT ORIGINAL BATTER"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        49
+      ]
+    ],
+    "PRICES": [
+      "60.39"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1024348.0": {
+    "ITEM_DESC": [
+      "PEACHES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        51
+      ]
+    ],
+    "PRICES": [
+      30.98
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2527653.0": {
+    "ITEM_DESC": [
+      "CRANBERRIES",
+      "CRANBERRIES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        52
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        69
+      ]
+    ],
+    "PRICES": [
+      19,
+      19
+    ],
+    "UNITS": [
+      "2/5lb cs",
+      "2/5lb cs"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/BAKER'S SOURCE, 7198010.0": {
+    "ITEM_DESC": [
+      "DOUGH PASTRY PUFF SQUARE 5X5"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        53
+      ]
+    ],
+    "PRICES": [
+      "$63.68 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7285455.0": {
+    "ITEM_DESC": [
+      "MANGOS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        54
+      ]
+    ],
+    "PRICES": [
+      51.33
+    ],
+    "UNITS": [
+      "1/20lb cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1719517.0": {
+    "ITEM_DESC": [
+      "PEARL ONIONS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        61
+      ]
+    ],
+    "PRICES": [
+      18.74
+    ],
+    "UNITS": [
+      "4/2lb cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 8538852.0": {
+    "ITEM_DESC": [
+      "KIDS MAC CHEESE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        62
+      ]
+    ],
+    "PRICES": [
+      47.02
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUCKHEAD PRIDE, 6322648.0": {
+    "ITEM_DESC": [
+      "BEEF BONE FEMUR 3-4 INCHE FROZEN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        63
+      ]
+    ],
+    "PRICES": [
+      "2.194"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUTCHERS BLOCK RESERVE, 7637499.0": {
+    "ITEM_DESC": [
+      "VEAL BONE HIND SHANK APPROXIMATELY 4\""
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        64
+      ]
+    ],
+    "PRICES": [
+      "5.14"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/TAMPA MAID, 5304706.0": {
+    "ITEM_DESC": [
+      "CALAMARI RINGS & TENTACLES DIPPED & DUSTED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        76
+      ]
+    ],
+    "PRICES": [
+      "129.85"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2820064.0": {
+    "ITEM_DESC": [
+      "CHOPPED CLAMS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        82
+      ]
+    ],
+    "PRICES": [
+      78.54
+    ],
+    "UNITS": [
+      "2/5lb cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4129340.0": {
+    "ITEM_DESC": [
+      "DIP SPINACH ARTICHOKE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        98
+      ]
+    ],
+    "PRICES": [
+      "66.31"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/UDI'S HEALTHY FOODS, 758401.0": {
+    "ITEM_DESC": [
+      "BUN HAMBURGER GLUTEN FREE INDIVIDUALLY WRAPPED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        99
+      ]
+    ],
+    "PRICES": [
+      "34.2"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7174275.0": {
+    "ITEM_DESC": [
+      "BREADED OKRA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        101
+      ]
+    ],
+    "PRICES": [
+      43.4
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 373570.0": {
+    "ITEM_DESC": [
+      "SHORT RIB BONE-IN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        102
+      ]
+    ],
+    "PRICES": [
+      6.97
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HIGHLINER, 2942728.0": {
+    "ITEM_DESC": [
+      "COD BATTERED BEER GUINNESS",
+      "COD BATTERED BEER GUINNESS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        104
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        74
+      ]
+    ],
+    "PRICES": [
+      "$84.11 ",
+      "$84.11 "
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 3011479.0": {
+    "ITEM_DESC": [
+      "LOBSTER BODIES FROZEN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        105
+      ]
+    ],
+    "PRICES": [
+      "$53.46 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LITTLE TOWN JERKY, 7140938.0": {
+    "ITEM_DESC": [
+      "BEEF CHUCK SHORT RIB BONELESS COOKED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        106
+      ]
+    ],
+    "PRICES": [
+      "13.023"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1169960.0": {
+    "ITEM_DESC": [
+      "WHIPPED TOPPING"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        1
+      ]
+    ],
+    "PRICES": [
+      50.27
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/YOPLAIT, 5076587.0": {
+    "ITEM_DESC": [
+      "YOGURT RASPBERRY & PEACH ORIGINAL"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        2
+      ]
+    ],
+    "PRICES": [
+      "29.74"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4944450.0": {
+    "ITEM_DESC": [
+      "SYSCO CHICKEN BASE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        3
+      ]
+    ],
+    "PRICES": [
+      8.92
+    ],
+    "UNITS": [
+      "cs 6/1lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4944203.0": {
+    "ITEM_DESC": [
+      "BEEF BASE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        4
+      ]
+    ],
+    "PRICES": [
+      48.41
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2389153.0": {
+    "ITEM_DESC": [
+      "MASCARPONE CHEESE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        7
+      ]
+    ],
+    "PRICES": [
+      5.2
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4944708.0": {
+    "ITEM_DESC": [
+      "TURKEY BASE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        8
+      ]
+    ],
+    "PRICES": [
+      9.92
+    ],
+    "UNITS": [
+      "cs 6/1lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4941258.0": {
+    "ITEM_DESC": [
+      "MINORS MUSHROOM BASE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        10
+      ]
+    ],
+    "PRICES": [
+      15.45
+    ],
+    "UNITS": [
+      "cs 6/1lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7249722.0": {
+    "ITEM_DESC": [
+      "CHILI LIME TORTILLA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        12
+      ]
+    ],
+    "PRICES": [
+      26.45
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9182890.0": {
+    "ITEM_DESC": [
+      "SPINACH TORTILLA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        13
+      ]
+    ],
+    "PRICES": [
+      27.39
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2582957.0": {
+    "ITEM_DESC": [
+      "WHITE FLOUR TORTILLA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        15
+      ]
+    ],
+    "PRICES": [
+      39.47
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MICHIGAN GROWN PRODUCE, 6671925.0": {
+    "ITEM_DESC": [
+      "CIDER APPLE FRESH MICHIGAN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        19
+      ]
+    ],
+    "PRICES": [
+      "30"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6324166.0": {
+    "ITEM_DESC": [
+      "SUSHI GINGER PICKLED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        20
+      ]
+    ],
+    "PRICES": [
+      49.3
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE FOODS, 5188131.0": {
+    "ITEM_DESC": [
+      "TOFU EXTRA FIRM CHINESE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        21
+      ]
+    ],
+    "PRICES": [
+      "19.1"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LAND O LAKES, 5055110.0": {
+    "ITEM_DESC": [
+      "BUTTER BLEND CLARIFIED WITH VEGETABLE OIL"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        22
+      ]
+    ],
+    "PRICES": [
+      "60.63"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUTTERBALL FARMS, 91449.0": {
+    "ITEM_DESC": [
+      "BUTTER BALLS .25 OZ SALTED IN BAG"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        23
+      ]
+    ],
+    "PRICES": [
+      "93.01"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 5141502.0": {
+    "ITEM_DESC": [
+      "SAUCE PESTO BASIL NO NUTS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        25
+      ]
+    ],
+    "PRICES": [
+      "80.32"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 5438874.0": {
+    "ITEM_DESC": [
+      "CREAM SOUR CULTURED GRADE A"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        26
+      ]
+    ],
+    "PRICES": [
+      "39.79"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 5031836.0": {
+    "ITEM_DESC": [
+      "CREAM SOUR PURE CUP GRADE A"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        27
+      ]
+    ],
+    "PRICES": [
+      "$17.22 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 5020896.0": {
+    "ITEM_DESC": [
+      "CHEESE COTTAGE SMALL CURD 4%"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        28
+      ]
+    ],
+    "PRICES": [
+      "25.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 5109107.0": {
+    "ITEM_DESC": [
+      "BUTTERMILK 1% CULTURED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        29
+      ]
+    ],
+    "PRICES": [
+      "24.08"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CASA SOLANA, 2822338.0": {
+    "ITEM_DESC": [
+      "CHEESE CHEDDAR MILD FANCY SHREDDED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        30
+      ]
+    ],
+    "PRICES": [
+      "56.36"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 2393049.0": {
+    "ITEM_DESC": [
+      "CHEESE GOUDA SMOKED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        31
+      ]
+    ],
+    "PRICES": [
+      "4.88"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 4676280.0": {
+    "ITEM_DESC": [
+      "MILK 2%"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        32
+      ]
+    ],
+    "PRICES": [
+      "18.9"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/NATALIE'S, 7302905.0": {
+    "ITEM_DESC": [
+      "JUICE ORANGE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        34
+      ]
+    ],
+    "PRICES": [
+      "42.92"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 6935464.0": {
+    "ITEM_DESC": [
+      "CREAM HEAVY 40%"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        35
+      ]
+    ],
+    "PRICES": [
+      "70.41"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 4828802.0": {
+    "ITEM_DESC": [
+      "CREAM HEAVY WHIPPING 36%"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        36
+      ]
+    ],
+    "PRICES": [
+      "64.38"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 4686758.0": {
+    "ITEM_DESC": [
+      "CREAMER HALF AND HALF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        37
+      ]
+    ],
+    "PRICES": [
+      "34.77"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 3009697.0": {
+    "ITEM_DESC": [
+      "POTATO SLICED COOKED RUSSET SKINLESS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        40
+      ]
+    ],
+    "PRICES": [
+      "21.74"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 3094962.0": {
+    "ITEM_DESC": [
+      "POTATO DICED COOKED RED SKIN-ON",
+      "POTATO DICED COOKED RED SKIN-ON"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        41
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        42
+      ]
+    ],
+    "PRICES": [
+      "25.43",
+      "25.43"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 3009428.0": {
+    "ITEM_DESC": [
+      "POTATO HASH BROWNS COOKED SKINLESS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        42
+      ]
+    ],
+    "PRICES": [
+      "21.8"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/KEN'S, 7872328.0": {
+    "ITEM_DESC": [
+      "DRESSING BALSAMIC VINAIGRETTE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        43
+      ]
+    ],
+    "PRICES": [
+      "58.1"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MARZETTI, 3630324.0": {
+    "ITEM_DESC": [
+      "DRESSING ASIAN SESAME"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        44
+      ]
+    ],
+    "PRICES": [
+      "$68.35 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/RELIANCE, 8763898.0": {
+    "ITEM_DESC": [
+      "DRESSING HONEY MUSTARD DIJON"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        45
+      ]
+    ],
+    "PRICES": [
+      "75.88"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4278081.0": {
+    "ITEM_DESC": [
+      "THOUSAND ISLAND DRESSING"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        46
+      ]
+    ],
+    "PRICES": [
+      63.74
+    ],
+    "UNITS": [
+      "4/1gla cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4084901.0": {
+    "ITEM_DESC": [
+      "BLUE CHEESE DRESSING"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        48
+      ]
+    ],
+    "PRICES": [
+      47.37
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 6475719.0": {
+    "ITEM_DESC": [
+      "DRESSING GREEK FETA CHEESE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        49
+      ]
+    ],
+    "PRICES": [
+      "$57.33 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 3554553.0": {
+    "ITEM_DESC": [
+      "CHEESE MONTEREY PEPPER JACK SLICED INTERLEAF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        50
+      ]
+    ],
+    "PRICES": [
+      "$43.54 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 3546386.0": {
+    "ITEM_DESC": [
+      "CHEESE PROVOLONE NON-SMOKED SLICED .75 OUNCE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        51
+      ]
+    ],
+    "PRICES": [
+      "45.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 3554569.0": {
+    "ITEM_DESC": [
+      "CHEESE SWISS SLICED .75 OUNCE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        52
+      ]
+    ],
+    "PRICES": [
+      "48.32"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SAPUTO FOODS LTD, 350880.0": {
+    "ITEM_DESC": [
+      "CHEESE MOZZARELLA LOW MOISTURE WHOLE MILK MOZZARELLA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        53
+      ]
+    ],
+    "PRICES": [
+      "2.465"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 3546369.0": {
+    "ITEM_DESC": [
+      "CHEESE CHEDDAR MILD SLICED INTERLEAFED .75 OUN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        55
+      ]
+    ],
+    "PRICES": [
+      "40.81"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 51322234.0": {
+    "ITEM_DESC": [
+      "SLICED AMERICAN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        56
+      ]
+    ],
+    "PRICES": [
+      56.01
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FARM COUNTRY, 605950.0": {
+    "ITEM_DESC": [
+      "CHEESE CHEDDAR WHITE SHARP MICHIGAN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        57
+      ]
+    ],
+    "PRICES": [
+      "8.143"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 4507966.0": {
+    "ITEM_DESC": [
+      "CHEESE GRUYERE KING CUTS"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        58
+      ]
+    ],
+    "PRICES": [
+      "6.579"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 1012327.0": {
+    "ITEM_DESC": [
+      "CHEESE BLUE CRUMBLE STYLE CHUNK"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        59
+      ]
+    ],
+    "PRICES": [
+      "25.69"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SUPREMO, 7027846.0": {
+    "ITEM_DESC": [
+      "CHEESE COJITA QUESO GRATED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        60
+      ]
+    ],
+    "PRICES": [
+      "88.85"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FRIENDSHIP CHEESES, 8646038.0": {
+    "ITEM_DESC": [
+      "CHEESE BRIE TIN DANISH"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        62
+      ]
+    ],
+    "PRICES": [
+      "39.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 2825061.0": {
+    "ITEM_DESC": [
+      "CHEESE CHEDDAR SHARP FEATHER SHREDDED WHITE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        63
+      ]
+    ],
+    "PRICES": [
+      "59.85"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 4384214.0": {
+    "ITEM_DESC": [
+      "CHEESE MOZZARELLA STRING"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        65
+      ]
+    ],
+    "PRICES": [
+      "42.07"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 1012566.0": {
+    "ITEM_DESC": [
+      "CHEESE CREAM LOAF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        66
+      ]
+    ],
+    "PRICES": [
+      "91.68"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 17354.0": {
+    "ITEM_DESC": [
+      "HASH BROWN PATTY"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        67
+      ]
+    ],
+    "PRICES": [
+      25.89
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 2557379.0": {
+    "ITEM_DESC": [
+      "HAM PROSCIUTTO COLOSSEUM DOMESTIC TRIMMED"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        68
+      ]
+    ],
+    "PRICES": [
+      "7.89"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 7199860.0": {
+    "ITEM_DESC": [
+      "EGG HARDCOOKED PEELED DRY PACK"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        69
+      ]
+    ],
+    "PRICES": [
+      "35.44"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 4803144.0": {
+    "ITEM_DESC": [
+      "EGG WHITE LIQUID WITH TRIETHYL CITRATE OPTIMUM"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        70
+      ]
+    ],
+    "PRICES": [
+      "32.05"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PAPETTI'S, 1777309.0": {
+    "ITEM_DESC": [
+      "EGG YOLK LIQUID FRESH"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        71
+      ]
+    ],
+    "PRICES": [
+      "63.31"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7094346.0": {
+    "ITEM_DESC": [
+      "SLICED TURKEY BREAST"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        73
+      ]
+    ],
+    "PRICES": [
+      81.47
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2565794.0": {
+    "ITEM_DESC": [
+      "HARD SALAMI"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        74
+      ]
+    ],
+    "PRICES": [
+      51.05
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 1962976.0": {
+    "ITEM_DESC": [
+      "HAM SMOKED SLICED .67 OUNCE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        75
+      ]
+    ],
+    "PRICES": [
+      "51.17"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 7200653.0": {
+    "ITEM_DESC": [
+      "EGG LIQUID SCRAMBLED MIX CARTON"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        77
+      ]
+    ],
+    "PRICES": [
+      "38.93"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 7208096.0": {
+    "ITEM_DESC": [
+      "EGG SHELL WHITE LARGE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        78
+      ]
+    ],
+    "PRICES": [
+      "54.31"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2386704.0": {
+    "ITEM_DESC": [
+      "CORN BEEF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        79
+      ]
+    ],
+    "PRICES": [
+      7.929
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7181050.0": {
+    "ITEM_DESC": [
+      "PANCETTA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        80
+      ]
+    ],
+    "PRICES": [
+      9.029
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 2822437.0": {
+    "ITEM_DESC": [
+      "CHEESE SWISS SANDWICH CUT GRADE C"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        81
+      ]
+    ],
+    "PRICES": [
+      "3.557"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1557705.0": {
+    "ITEM_DESC": [
+      "FIG SPREAD"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        82
+      ]
+    ],
+    "PRICES": [
+      69.95
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ASHBY'S, 2727519.0": {
+    "ITEM_DESC": [
+      "ICE CREAM VANILLA BEAN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      "37.16"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2589026.0": {
+    "ITEM_DESC": [
+      "CINNAMON"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        5
+      ]
+    ],
+    "PRICES": [
+      26.81
+    ],
+    "UNITS": [
+      "3 gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7004369.0": {
+    "ITEM_DESC": [
+      "LEMON SHERBET"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        7
+      ]
+    ],
+    "PRICES": [
+      32.53
+    ],
+    "UNITS": [
+      "3 gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7617459.0": {
+    "ITEM_DESC": [
+      "WHITE CHOCOLATE RASPBERRY GELATO"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        8
+      ]
+    ],
+    "PRICES": [
+      56.79
+    ],
+    "UNITS": [
+      "2.5gal/cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLUE RIBBON, 2277267.0": {
+    "ITEM_DESC": [
+      "ICE CREAM BAR SUNDAE STRAWBERRY KRUNCH"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        9
+      ]
+    ],
+    "PRICES": [
+      "24.78"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLUE BUNNY, 2577328.0": {
+    "ITEM_DESC": [
+      "ICE CREAM SANDWICH VANILLA",
+      "ICE CREAM SANDWICH VANILLA"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        11
+      ],
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        14
+      ]
+    ],
+    "PRICES": [
+      "21.59",
+      "21.59"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/BLUE RIBBON, 7058869.0": {
+    "ITEM_DESC": [
+      "ICE CREAM BAR FUDGE",
+      "ICE CREAM BAR FUDGE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        13
+      ],
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        15
+      ]
+    ],
+    "PRICES": [
+      "20.11",
+      "20.11"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 7209787.0": {
+    "ITEM_DESC": [
+      "LEMON ITALIAN DESSERT"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        16
+      ]
+    ],
+    "PRICES": [
+      87.93
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1024363.0": {
+    "ITEM_DESC": [
+      "SLICED STRAWBERRIES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        17
+      ]
+    ],
+    "PRICES": [
+      21.42
+    ],
+    "UNITS": [
+      "6.5 lb tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE OF FLAVORS, 2588861.0": {
+    "ITEM_DESC": [
+      "SHERBET RAINBOW"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        18
+      ]
+    ],
+    "PRICES": [
+      "$20.88 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2560357.0": {
+    "ITEM_DESC": [
+      "LEMON ITALIAN ICE"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        19
+      ]
+    ],
+    "PRICES": [
+      34.68
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 3412410.0": {
+    "ITEM_DESC": [
+      "ICE CREAM VANILLA CUP 4 OUNCES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        20
+      ]
+    ],
+    "PRICES": [
+      "20.9"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/WHOLESOME FARMS, 3412424.0": {
+    "ITEM_DESC": [
+      "ICE CREAM CHOCOLATE CUP 4 OUNCES"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        21
+      ]
+    ],
+    "PRICES": [
+      "20.9"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUTCHER'S BLOCK, 5812296.0": {
+    "ITEM_DESC": [
+      "PORK LOIN BONELESS CENTER-CUT STRAP-OFF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      "2.38"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7186689.0": {
+    "ITEM_DESC": [
+      "SY GINSBERG'S  CORN BEEF"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        2
+      ]
+    ],
+    "PRICES": [
+      7.55
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1323005.0": {
+    "ITEM_DESC": [
+      "LAMB CHOP LOIN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      17.357
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5812534.0": {
+    "ITEM_DESC": [
+      "PORK TENDERLOIN"
+    ],
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      42.24
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4099099.0": {
+    "ITEM_DESC": [
+      "NAVY BEANS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        1
+      ]
+    ],
+    "PRICES": [
+      27.55
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4096954.0": {
+    "ITEM_DESC": [
+      "LENTILS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        3
+      ]
+    ],
+    "PRICES": [
+      26.06
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4099115.0": {
+    "ITEM_DESC": [
+      "GREEN SPLIT PEAS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        4
+      ]
+    ],
+    "PRICES": [
+      25.81
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BEN'S ORIGINAL MCW RICE, 7191045.0": {
+    "ITEM_DESC": [
+      "RICE BASMATI INTNL BENS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        5
+      ]
+    ],
+    "PRICES": [
+      "27.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 4671350.0": {
+    "ITEM_DESC": [
+      "RICE PARBOILED PERFECT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        6
+      ]
+    ],
+    "PRICES": [
+      "29.95"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 2145985.0": {
+    "ITEM_DESC": [
+      "RICE ARBORIO ITALIAN SUPERFINO"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        7
+      ]
+    ],
+    "PRICES": [
+      "65.44"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3616679.0": {
+    "ITEM_DESC": [
+      "QUINOA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        8
+      ]
+    ],
+    "PRICES": [
+      68.35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/JADE MOUNTAIN, 9689688.0": {
+    "ITEM_DESC": [
+      "RICE JASMINE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        9
+      ]
+    ],
+    "PRICES": [
+      "33.02"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3746872.0": {
+    "ITEM_DESC": [
+      "BROWN FLAX SEED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        10
+      ]
+    ],
+    "PRICES": [
+      50.85
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/RELIANCE, 4002408.0": {
+    "ITEM_DESC": [
+      "MAYONNAISE HEAVY DUTY PAIL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        11
+      ]
+    ],
+    "PRICES": [
+      "49.84"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/RELIANCE, 4002432.0": {
+    "ITEM_DESC": [
+      "MAYONNAISE HEAVY DUTY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        12
+      ]
+    ],
+    "PRICES": [
+      "51.4"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HIDDEN VALLEY RANCH, 5195847.0": {
+    "ITEM_DESC": [
+      "DRESSING RANCH ORIGINAL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        13
+      ]
+    ],
+    "PRICES": [
+      "67.72"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HIDDEN VALLEY RANCH, 948737.0": {
+    "ITEM_DESC": [
+      "DRESSING RASPBERRY VINAIGRETTE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        14
+      ]
+    ],
+    "PRICES": [
+      "71.81"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 5005327.0": {
+    "ITEM_DESC": [
+      "DRESSING CAESAR WITH EGG"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        15
+      ]
+    ],
+    "PRICES": [
+      "120.26"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 9591264.0": {
+    "ITEM_DESC": [
+      "DRESSING CILANTRO VINAIGRETTE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        16
+      ]
+    ],
+    "PRICES": [
+      "31.92"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1069202.0": {
+    "ITEM_DESC": [
+      "HARVEST BULGUR WHEAT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        17
+      ]
+    ],
+    "PRICES": [
+      51.73
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1032198.0": {
+    "ITEM_DESC": [
+      "PEARLED COUSCOUS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        18
+      ]
+    ],
+    "PRICES": [
+      29.92
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5848056.0": {
+    "ITEM_DESC": [
+      "CHIEFTAN WILD RICE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        19
+      ]
+    ],
+    "PRICES": [
+      48.1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 7626013.0": {
+    "ITEM_DESC": [
+      "SHORTENING FRY CANOLA CLEAR ZERO TRANS FAT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        25
+      ]
+    ],
+    "PRICES": [
+      "43.48"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/TRULY, 255941.0": {
+    "ITEM_DESC": [
+      "OIL OLIVE EXTRA VIRGIN 10 L BAG IN BOX"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        26
+      ]
+    ],
+    "PRICES": [
+      "138.34"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 5934302.0": {
+    "ITEM_DESC": [
+      "OIL OLIVE BLEND 80/20"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        27
+      ]
+    ],
+    "PRICES": [
+      "75.63"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/GARDETTO'S, 5660816.0": {
+    "ITEM_DESC": [
+      "SNACK MIX ORIGINAL SNAK-ENS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        28
+      ]
+    ],
+    "PRICES": [
+      "36.17"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7592348.0": {
+    "ITEM_DESC": [
+      "CHEX MIX TRADITIONAL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        29
+      ]
+    ],
+    "PRICES": [
+      35.19
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1899063.0": {
+    "ITEM_DESC": [
+      "STRAWBERRY CHEX MIX"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        30
+      ]
+    ],
+    "PRICES": [
+      34.35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7451305.0": {
+    "ITEM_DESC": [
+      "SHEET RICE KRISPY TREAT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        31
+      ]
+    ],
+    "PRICES": [
+      63.52
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PEPPERIDGE FARM, 6599405.0": {
+    "ITEM_DESC": [
+      "CRACKER GOLDFISH WHOLE GRAIN",
+      "CRACKER GOLDFISH WHOLE GRAIN"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        32
+      ],
+      [
+        "STOREROOM",
+        38
+      ]
+    ],
+    "PRICES": [
+      "$68.85 ",
+      "$68.85 "
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/SUNSHINE, 5538590.0": {
+    "ITEM_DESC": [
+      "CRACKER CHEEZ-IT ORIGINAL SNACK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        33
+      ]
+    ],
+    "PRICES": [
+      "28.53"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/KELLOGG'S, 6092714.0": {
+    "ITEM_DESC": [
+      "SNACK BAR RICE KRISPIES TREAT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        34
+      ]
+    ],
+    "PRICES": [
+      "$29.70 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LAYS, 6586721.0": {
+    "ITEM_DESC": [
+      "CHIP VARIETY FRITO LAY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        35
+      ]
+    ],
+    "PRICES": [
+      "43.28"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5321841.0": {
+    "ITEM_DESC": [
+      "MINI PRETZEL BULK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        36
+      ]
+    ],
+    "PRICES": [
+      16.34
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CASA SOLANA, 9407057.0": {
+    "ITEM_DESC": [
+      "CHIP TORTILLA TRI COLOR PREFRY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        37
+      ]
+    ],
+    "PRICES": [
+      "51.7"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ROLD GOLD, 8083164.0": {
+    "ITEM_DESC": [
+      "PRETZEL TINY TWIST CLASSIC"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        39
+      ]
+    ],
+    "PRICES": [
+      "40.83"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 7221933.0": {
+    "ITEM_DESC": [
+      "CHIP POTATO ORIGINAL KETTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        40
+      ]
+    ],
+    "PRICES": [
+      "34.61"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SMARTFOOD, 6783417.0": {
+    "ITEM_DESC": [
+      "POPCORN CHEDDAR WHITE LARGE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        41
+      ]
+    ],
+    "PRICES": [
+      "45.75"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 8562621.0": {
+    "ITEM_DESC": [
+      "OATS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        44
+      ]
+    ],
+    "PRICES": [
+      55.33
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/QUAKER, 1827433.0": {
+    "ITEM_DESC": [
+      "CEREAL HOT OATMEAL VARIETY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        45
+      ]
+    ],
+    "PRICES": [
+      "22.23"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CITAVO, 8322224.0": {
+    "ITEM_DESC": [
+      "COFFEE GROUND COLOMBIAN MEDIUM WITH FILTER"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        48
+      ]
+    ],
+    "PRICES": [
+      "108.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 5087572.0": {
+    "ITEM_DESC": [
+      "SUGAR GRANULATED EXTRA FINE CANE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        49
+      ]
+    ],
+    "PRICES": [
+      "24.91"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4540373.0": {
+    "ITEM_DESC": [
+      "IODIZED SALT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        50
+      ]
+    ],
+    "PRICES": [
+      7.64
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5869853.0": {
+    "ITEM_DESC": [
+      "MONIN DARK CHOCOLATE SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        51
+      ]
+    ],
+    "PRICES": [
+      58.6
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6371373.0": {
+    "ITEM_DESC": [
+      "MONIN CARAMEL SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        52
+      ]
+    ],
+    "PRICES": [
+      81.67
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7160036.0": {
+    "ITEM_DESC": [
+      "MONIN WHITE CHOCOLATE SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        53
+      ]
+    ],
+    "PRICES": [
+      89.82
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9272592.0": {
+    "ITEM_DESC": [
+      "MONIN STRAWBERRY SYRUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        54
+      ]
+    ],
+    "PRICES": [
+      34.72
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9228610.0": {
+    "ITEM_DESC": [
+      "MONIN RASPBERRY SYRUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        55
+      ]
+    ],
+    "PRICES": [
+      34.03
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9226150.0": {
+    "ITEM_DESC": [
+      "MONIN HAZELNUT SYRUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        57
+      ]
+    ],
+    "PRICES": [
+      34.03
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE RECIPE, 4204996.0": {
+    "ITEM_DESC": [
+      "CRACKER SALTINE 2 PER PACKET"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        58
+      ]
+    ],
+    "PRICES": [
+      "24.57"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4488464.0": {
+    "ITEM_DESC": [
+      "OYSTER CRACKERS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        59
+      ]
+    ],
+    "PRICES": [
+      19.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 6040760.0": {
+    "ITEM_DESC": [
+      "SALT KOSHER FLAKE COARSE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        60
+      ]
+    ],
+    "PRICES": [
+      "55.57"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4279592.0": {
+    "ITEM_DESC": [
+      "DARK BROWN SUGAR",
+      "DARK BROWN SUGAR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        62
+      ],
+      [
+        "STOREROOM",
+        135
+      ]
+    ],
+    "PRICES": [
+      36.48,
+      36.48
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/NAN, 8379270.0": {
+    "ITEM_DESC": [
+      "NAN"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        63
+      ]
+    ],
+    "PRICES": [
+      "18.63"
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4080966.0": {
+    "ITEM_DESC": [
+      "MARSHMALLOWS LITTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        64
+      ]
+    ],
+    "PRICES": [
+      32.1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7677784.0": {
+    "ITEM_DESC": [
+      "HOT COCOA MIX"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        65
+      ]
+    ],
+    "PRICES": [
+      14.21
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SWEET & LOW, 2326140.0": {
+    "ITEM_DESC": [
+      "SUGAR SUBSTITUTE PACKET PINK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        69
+      ]
+    ],
+    "PRICES": [
+      "28.98"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4000899.0": {
+    "ITEM_DESC": [
+      "SUGAR EXTRA FINE GRANULAR PACKET"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        70
+      ]
+    ],
+    "PRICES": [
+      "17.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FERRIS COFFEE & NUT, 6239523.0": {
+    "ITEM_DESC": [
+      "COFFEE BEAN REGULAR ESPRESSO SUPREME"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        73
+      ]
+    ],
+    "PRICES": [
+      "64.88"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CITAVO, 7545589.0": {
+    "ITEM_DESC": [
+      "COFFEE BEAN HOUSE BLEND BULK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        74
+      ]
+    ],
+    "PRICES": [
+      "125.83"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/INTERNATIONAL DELIGHT, 7441314.0": {
+    "ITEM_DESC": [
+      "CREAMER COFFEE HAZELNUT ND",
+      "CREAMER COFFEE HAZELNUT ND"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        75
+      ],
+      [
+        "STOREROOM",
+        84
+      ]
+    ],
+    "PRICES": [
+      "26.17",
+      "26.17"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4645438.0": {
+    "ITEM_DESC": [
+      "PEANUT DRY ROASTED SALTED BLANCHED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        76
+      ]
+    ],
+    "PRICES": [
+      "29.31"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5835376.0": {
+    "ITEM_DESC": [
+      "MACADEMIA NUT WHOLE DRY ROASTED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        77
+      ]
+    ],
+    "PRICES": [
+      136.94
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4645018.0": {
+    "ITEM_DESC": [
+      "FERRIS RST SLT DLXE MIXED NUTS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        78
+      ]
+    ],
+    "PRICES": [
+      45.3
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LIPTON, 4046264.0": {
+    "ITEM_DESC": [
+      "TEA BAG ICED 1 OZ"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        79
+      ]
+    ],
+    "PRICES": [
+      "$30.13 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5062088.0": {
+    "ITEM_DESC": [
+      "HOT TEA DECAF"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        80
+      ]
+    ],
+    "PRICES": [
+      34.33
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7.068326706832171E+34": {
+    "ITEM_DESC": [
+      "FLAVORED TEAS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        81
+      ]
+    ],
+    "PRICES": [
+      32.39
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CITAVO, 7100285.0": {
+    "ITEM_DESC": [
+      "CREAMER COFFEE CITAVO NON DAIRY ORIGINAL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        82
+      ]
+    ],
+    "PRICES": [
+      "20.14"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CITAVO, 7100252.0": {
+    "ITEM_DESC": [
+      "CREAMER COFFEE CITAVO FRENCH VANILLA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        83
+      ]
+    ],
+    "PRICES": [
+      "22.44"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/INTERNATIONAL DELIGHT, 7940998.0": {
+    "ITEM_DESC": [
+      "CREAMER NON-DAIRY CARAMEL MACCHIATO"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        85
+      ]
+    ],
+    "PRICES": [
+      "22.82"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4899326.0": {
+    "ITEM_DESC": [
+      "ROASTED RED SKIN PEANUTS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        86
+      ]
+    ],
+    "PRICES": [
+      98.86
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4645412.0": {
+    "ITEM_DESC": [
+      "ALMOND NAUTRAL SLICED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        87
+      ]
+    ],
+    "PRICES": [
+      "63.93"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 7078389.0": {
+    "ITEM_DESC": [
+      "PECAN HALVES MEDIUM FANCY RAW"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        88
+      ]
+    ],
+    "PRICES": [
+      "60.6"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4700417.0": {
+    "ITEM_DESC": [
+      "YELLOW MUSTARD SMALL BOTTLE",
+      "YELLOW MUSTARD SMALL BOTTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        89
+      ],
+      [
+        "STOREROOM",
+        163
+      ]
+    ],
+    "PRICES": [
+      15.4,
+      15.4
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, 3420587.0": {
+    "ITEM_DESC": [
+      "MAYO SMALL BOTTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        90
+      ]
+    ],
+    "PRICES": [
+      54.06
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE RECIPE, 4560934.0": {
+    "ITEM_DESC": [
+      "KETCHUP SQUEEZE RED BOTTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        91
+      ]
+    ],
+    "PRICES": [
+      "47.66"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4432068.0": {
+    "ITEM_DESC": [
+      "CAPERBERRIES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        93
+      ]
+    ],
+    "PRICES": [
+      30.18
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 5535679.0": {
+    "ITEM_DESC": [
+      "CAPERS NONPAREIL IMPORTED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        94
+      ]
+    ],
+    "PRICES": [
+      "$43.73 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4171755.0": {
+    "ITEM_DESC": [
+      "WHITE TRUFFLE OLIVE OIL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        95
+      ]
+    ],
+    "PRICES": [
+      29.52
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE RECIPE, 5686266.0": {
+    "ITEM_DESC": [
+      "KETCHUP FANCY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        96
+      ]
+    ],
+    "PRICES": [
+      "46.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FULL-RED, 5031596.0": {
+    "ITEM_DESC": [
+      "TOMATO, DICED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        98
+      ]
+    ],
+    "PRICES": [
+      "37.7"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4015343.0": {
+    "ITEM_DESC": [
+      "SLICED BEETS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        99
+      ]
+    ],
+    "PRICES": [
+      40.06
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/RELIANCE, 4061875.0": {
+    "ITEM_DESC": [
+      "APPLE SLICES IN WATER 6.5#"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        100
+      ]
+    ],
+    "PRICES": [
+      "59.85"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 2182063.0": {
+    "ITEM_DESC": [
+      "PEACH SLICED CHOICE EXTRA IN LIGHT SYRUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        101
+      ]
+    ],
+    "PRICES": [
+      "71.3"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4014973.0": {
+    "ITEM_DESC": [
+      "KIDNEY BEANS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        102
+      ]
+    ],
+    "PRICES": [
+      46.36
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4891883.0": {
+    "ITEM_DESC": [
+      "DICED PEARS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        103
+      ]
+    ],
+    "PRICES": [
+      65.31
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4087391.0": {
+    "ITEM_DESC": [
+      "PINEAPPLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        104
+      ]
+    ],
+    "PRICES": [
+      70.07
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4062337.0": {
+    "ITEM_DESC": [
+      "BEAN GARBANZO FANCY NO SULFITE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        105
+      ]
+    ],
+    "PRICES": [
+      "42.2"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 4189171.0": {
+    "ITEM_DESC": [
+      "SAUERKRAUT SHREDDED FANCY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        107
+      ]
+    ],
+    "PRICES": [
+      "50.91"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3362274.0": {
+    "ITEM_DESC": [
+      "PINTO BEANS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        108
+      ]
+    ],
+    "PRICES": [
+      39.51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9576307.0": {
+    "ITEM_DESC": [
+      "SWEET POTATOES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        109
+      ]
+    ],
+    "PRICES": [
+      15.56
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BUSH BROTHERS, 8129645.0": {
+    "ITEM_DESC": [
+      "BEAN GREAT NORTHERN FANCY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        110
+      ]
+    ],
+    "PRICES": [
+      "35.8"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 282238.0": {
+    "ITEM_DESC": [
+      "CHEDAR CHEESE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        111
+      ]
+    ],
+    "PRICES": [
+      54.03
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 8326872.0": {
+    "ITEM_DESC": [
+      "BEAN BAKED SLOW COOKED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        112
+      ]
+    ],
+    "PRICES": [
+      "41.5"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CASA SOLANA, 7143211.0": {
+    "ITEM_DESC": [
+      "SALSA JALAPENO FIRE ROASTED DICED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        114
+      ]
+    ],
+    "PRICES": [
+      "54.1"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 5889654.0": {
+    "ITEM_DESC": [
+      "VINEGAR BALSAMIC ITALY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        115
+      ]
+    ],
+    "PRICES": [
+      "41.85"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MAE PLOY, 1901992.0": {
+    "ITEM_DESC": [
+      "SAUCE CHILI SWEET THAI",
+      "SAUCE CHILI SWEET THAI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        116
+      ],
+      [
+        "STOREROOM",
+        150
+      ]
+    ],
+    "PRICES": [
+      "$59.25 ",
+      "$59.25 "
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/ARGO, 4032991.0": {
+    "ITEM_DESC": [
+      "CORN STARCH"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        117
+      ]
+    ],
+    "PRICES": [
+      "38.68"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4004438.0": {
+    "ITEM_DESC": [
+      "ASIAN NOODLES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        119
+      ]
+    ],
+    "PRICES": [
+      37.63
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FULL-RED, 7189296.0": {
+    "ITEM_DESC": [
+      "SAUCE MARINARA CHUNKY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        120
+      ]
+    ],
+    "PRICES": [
+      "42.81"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SWEET BABY RAY'S, 3369388.0": {
+    "ITEM_DESC": [
+      "SAUCE BARBEQUE ORIGINAL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        121
+      ]
+    ],
+    "PRICES": [
+      "56.59"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 9732967.0": {
+    "ITEM_DESC": [
+      "PEANUT BUTTER CREAMY PET PLASTIC CONTAINER JAR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        122
+      ]
+    ],
+    "PRICES": [
+      "17.42"
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4186086.0": {
+    "ITEM_DESC": [
+      "SYRUP PANCAKE & WAFFLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        125
+      ]
+    ],
+    "PRICES": [
+      "52.74"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FRANK'S REDHOT, 7524051.0": {
+    "ITEM_DESC": [
+      "SAUCE PEPPER CAYENNE RED HOT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        126
+      ]
+    ],
+    "PRICES": [
+      "16.48"
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LEA & PERRINS, 4007852.0": {
+    "ITEM_DESC": [
+      "SAUCE WORCESTERSHIRE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        127
+      ]
+    ],
+    "PRICES": [
+      "59.8"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/A.1. STEAK SAUCE, 4007522.0": {
+    "ITEM_DESC": [
+      "SAUCE STEAK GLASS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        128
+      ]
+    ],
+    "PRICES": [
+      "69.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/TABASCO, 5102736.0": {
+    "ITEM_DESC": [
+      "SAUCE TABASCO HOT"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        129
+      ]
+    ],
+    "PRICES": [
+      "37.25"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4122875.0": {
+    "ITEM_DESC": [
+      "MALT VINEGAR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        130
+      ]
+    ],
+    "PRICES": [
+      33.13
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SUPREME, 8357873.0": {
+    "ITEM_DESC": [
+      "ORANGE MANDARIN WHOLE SEGMENTS IN JUICE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        131
+      ]
+    ],
+    "PRICES": [
+      "73.64"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7077490.0": {
+    "ITEM_DESC": [
+      "BAKING SODA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        132
+      ]
+    ],
+    "PRICES": [
+      27.45
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5239389.0": {
+    "ITEM_DESC": [
+      "VANILLA IMITATION"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        133
+      ]
+    ],
+    "PRICES": [
+      7.41
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 7082172.0": {
+    "ITEM_DESC": [
+      "POWDER BAKING"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        134
+      ]
+    ],
+    "PRICES": [
+      "12.29"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5492640.0": {
+    "ITEM_DESC": [
+      "CHAMPAGNE VINEGAR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        136
+      ]
+    ],
+    "PRICES": [
+      43.13
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4113049.0": {
+    "ITEM_DESC": [
+      "VINEGAR WHITE DISTILLED 50 GRAIN"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        137
+      ]
+    ],
+    "PRICES": [
+      "18.25"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4113056.0": {
+    "ITEM_DESC": [
+      "VINEGAR RED WINE 50 GRAIN"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        138
+      ]
+    ],
+    "PRICES": [
+      "40.57"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HOUSE RECIPE, 3530128.0": {
+    "ITEM_DESC": [
+      "HONEY PURE CUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        139
+      ]
+    ],
+    "PRICES": [
+      "56.83"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/RELIANCE, 3374097.0": {
+    "ITEM_DESC": [
+      "HONEY PURE LIGHT AMBER GRADE A TRUE SOURCE CERTIFIED IN JUG"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        140
+      ]
+    ],
+    "PRICES": [
+      "112.68"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4069373.0": {
+    "ITEM_DESC": [
+      "VINEGAR APPLE CIDER 50 GRAIN"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        141
+      ]
+    ],
+    "PRICES": [
+      "$37.22 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/COLUMELA (DRY), 4965503.0": {
+    "ITEM_DESC": [
+      "VINEGAR SHERRY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        142
+      ]
+    ],
+    "PRICES": [
+      "38.6"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CASA SOLANA, 2386134.0": {
+    "ITEM_DESC": [
+      "TORTILLA FLOUR PRESSED 6 INCHES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        143
+      ]
+    ],
+    "PRICES": [
+      "41.81"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/MISSION FOODS, 9887902.0": {
+    "ITEM_DESC": [
+      "SHELL TACO YELLOW REGULAR 5\""
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        144
+      ]
+    ],
+    "PRICES": [
+      "21.17"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7283258.0": {
+    "ITEM_DESC": [
+      "BULGOGI SAUCE",
+      "BULGOGI SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        145
+      ],
+      [
+        "STOREROOM",
+        178
+      ]
+    ],
+    "PRICES": [
+      74.14,
+      74.14
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/JADE MOUNTAIN, 5109780.0": {
+    "ITEM_DESC": [
+      "VINEGAR RICE UNSEASONED NO MSG"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        148
+      ]
+    ],
+    "PRICES": [
+      "57.69"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HUY FONG, 2451417.0": {
+    "ITEM_DESC": [
+      "SAUCE CHILI HOT SRIRACHA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        149
+      ]
+    ],
+    "PRICES": [
+      "59.88"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 651828.0": {
+    "ITEM_DESC": [
+      "GLAZE BALSAMIC VINEGAR OF MODENA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        151
+      ]
+    ],
+    "PRICES": [
+      "19.1"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5757091.0": {
+    "ITEM_DESC": [
+      "CHIPOTLE PEPPERS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        152
+      ]
+    ],
+    "PRICES": [
+      21.3
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4293373.0": {
+    "ITEM_DESC": [
+      "ARTICHOKE HEARTS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        153
+      ]
+    ],
+    "PRICES": [
+      97.32
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 5017918.0": {
+    "ITEM_DESC": [
+      "PEPPER RED FIRE ROASTED STRIPS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        154
+      ]
+    ],
+    "PRICES": [
+      "66.32"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BARILLA ITALIAN PASTA, 8843195.0": {
+    "ITEM_DESC": [
+      "PASTA FARFALLE BOWTIE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        155
+      ]
+    ],
+    "PRICES": [
+      "25"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BARILLA ITALIAN PASTA, 8085888.0": {
+    "ITEM_DESC": [
+      "PASTA GEMELLI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        156
+      ]
+    ],
+    "PRICES": [
+      "27.65"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 9688367.0": {
+    "ITEM_DESC": [
+      "MACARONI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        157
+      ]
+    ],
+    "PRICES": [
+      25
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PASTA LABELLA, 6040885.0": {
+    "ITEM_DESC": [
+      "PASTA CAVATAPPI 100% DURUM WHEAT SEMOLINA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        158
+      ]
+    ],
+    "PRICES": [
+      "26.78"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4899365.0": {
+    "ITEM_DESC": [
+      "CHILI GARLIC "
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        159
+      ]
+    ],
+    "PRICES": [
+      82.69
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LEE KUM KEE, 4520623.0": {
+    "ITEM_DESC": [
+      "HOISIN SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        160
+      ]
+    ],
+    "PRICES": [
+      "11.67"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3802147.0": {
+    "ITEM_DESC": [
+      "SWEET & SOUR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        161
+      ]
+    ],
+    "PRICES": [
+      56.27
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PEPPADEW, 304259.0": {
+    "ITEM_DESC": [
+      "PEPPER PIQUANTE SWEET WHOLE MILD"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        162
+      ]
+    ],
+    "PRICES": [
+      "50.95"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5371299.0": {
+    "ITEM_DESC": [
+      "DIJON MUSTARD"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        164
+      ]
+    ],
+    "PRICES": [
+      23.78
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 7110474.0": {
+    "ITEM_DESC": [
+      "PAN COATING CANOLA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        165
+      ]
+    ],
+    "PRICES": [
+      "42.34"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7011663.0": {
+    "ITEM_DESC": [
+      "TAHINI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        171
+      ]
+    ],
+    "PRICES": [
+      113.14
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/JADE MOUNTAIN, 1425982.0": {
+    "ITEM_DESC": [
+      "MILK COCONUT UNSWEETENED",
+      "MILK COCONUT UNSWEETENED"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        172
+      ],
+      [
+        "STOREROOM",
+        177
+      ]
+    ],
+    "PRICES": [
+      "46.76",
+      "46.76"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/LEE KUM KEE, 4899373.0": {
+    "ITEM_DESC": [
+      "OIL SESAME SEED PURE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        174
+      ]
+    ],
+    "PRICES": [
+      "52.64"
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7314452.0": {
+    "ITEM_DESC": [
+      "DARK SOY SAUCE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        175
+      ]
+    ],
+    "PRICES": [
+      13.84
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7045184.0": {
+    "ITEM_DESC": [
+      "BLACK GARLIC SHOYU"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        176
+      ]
+    ],
+    "PRICES": [
+      83.43
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7028733.0": {
+    "ITEM_DESC": [
+      "RED CURRY PASTE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        179
+      ]
+    ],
+    "PRICES": [
+      10.86
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2837235.0": {
+    "ITEM_DESC": [
+      "SOBA NOODLES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        182
+      ]
+    ],
+    "PRICES": [
+      46.24
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1627900.0": {
+    "ITEM_DESC": [
+      "FETTUCCINE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        184
+      ]
+    ],
+    "PRICES": [
+      25
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2217875.0": {
+    "ITEM_DESC": [
+      "SQUID INK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        185
+      ]
+    ],
+    "PRICES": [
+      67.8
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PASTA LABELLA, 4862959.0": {
+    "ITEM_DESC": [
+      "PASTA LINGUINE 10 INCH"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        186
+      ]
+    ],
+    "PRICES": [
+      "25.98"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PASTA LABELLA, 4862967.0": {
+    "ITEM_DESC": [
+      "PASTA CAPELLINI 10\""
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        187
+      ]
+    ],
+    "PRICES": [
+      "26.7"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5310586.0": {
+    "ITEM_DESC": [
+      "ACINI DE PEPE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        189
+      ]
+    ],
+    "PRICES": [
+      57.24
+    ],
+    "UNITS": [
+      "cs 20c"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4365268.0": {
+    "ITEM_DESC": [
+      "LASAGNA NOODLES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        190
+      ]
+    ],
+    "PRICES": [
+      25
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BARILLA ITALIAN PASTA, 4069926.0": {
+    "ITEM_DESC": [
+      "PASTA PENNE RIGATE GLUTEN FREE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        191
+      ]
+    ],
+    "PRICES": [
+      "20.73"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PASTA LABELLA, 4862777.0": {
+    "ITEM_DESC": [
+      "PASTA SHELL SMALL"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        192
+      ]
+    ],
+    "PRICES": [
+      "33.97"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BARILLA ITALIAN PASTA, 7967144.0": {
+    "ITEM_DESC": [
+      "PASTA SPAGHETTI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        193
+      ]
+    ],
+    "PRICES": [
+      "25"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1751148.0": {
+    "ITEM_DESC": [
+      " LINGUINI MAMUCCI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        194
+      ]
+    ],
+    "PRICES": [
+      39.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4005617.0": {
+    "ITEM_DESC": [
+      "TERIYAKI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        196
+      ]
+    ],
+    "PRICES": [
+      58.51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4005567.0": {
+    "ITEM_DESC": [
+      "SOY"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        197
+      ]
+    ],
+    "PRICES": [
+      53.98
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/NATURE VALLEY, 7082091.0": {
+    "ITEM_DESC": [
+      "SNACK BAR GRANOLA VARIETY 3 FLAVOR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        199
+      ]
+    ],
+    "PRICES": [
+      "60.28"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/M&M, 6080550.0": {
+    "ITEM_DESC": [
+      "CANDY M&M'S PLAIN BULK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        200
+      ]
+    ],
+    "PRICES": [
+      "105.94"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5837703.0": {
+    "ITEM_DESC": [
+      "GOLDEN RAISINS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        201
+      ]
+    ],
+    "PRICES": [
+      28.7
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/NATURE VALLEY, 6045371.0": {
+    "ITEM_DESC": [
+      "CEREAL GRANOLA FRUIT BULKPAK"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        202
+      ]
+    ],
+    "PRICES": [
+      "50.57"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7063077.0": {
+    "ITEM_DESC": [
+      "RELISH DILL PICKLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        205
+      ]
+    ],
+    "PRICES": [
+      10.05
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 141382.0": {
+    "ITEM_DESC": [
+      "SWEET PICKLE RELISH"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        206
+      ]
+    ],
+    "PRICES": [
+      35.61
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1904509.0": {
+    "ITEM_DESC": [
+      "SLICED JALAPENO"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        207
+      ]
+    ],
+    "PRICES": [
+      26.42
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5287269.0": {
+    "ITEM_DESC": [
+      "SWEET GHERKINS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        208
+      ]
+    ],
+    "PRICES": [
+      16
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 151431.0": {
+    "ITEM_DESC": [
+      "SLICED BANANA PEPPERS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        209
+      ]
+    ],
+    "PRICES": [
+      32.85
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4355414.0": {
+    "ITEM_DESC": [
+      "PEPPERONCINI"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        210
+      ]
+    ],
+    "PRICES": [
+      33.94
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5.523808552381655E+27": {
+    "ITEM_DESC": [
+      "NUTRI-GRAIN BARS"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        211
+      ]
+    ],
+    "PRICES": [
+      33.65
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5429776.0": {
+    "ITEM_DESC": [
+      "KALAMATA OLIVES"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        212
+      ]
+    ],
+    "PRICES": [
+      36.27
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 5176748.0": {
+    "ITEM_DESC": [
+      "CLAM JUICE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        213
+      ]
+    ],
+    "PRICES": [
+      50.14
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 8576274.0": {
+    "ITEM_DESC": [
+      "ALBACORE TUNA"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        214
+      ]
+    ],
+    "PRICES": [
+      126.54
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/HERSHEY, 4441457.0": {
+    "ITEM_DESC": [
+      "SYRUP CHOCOLATE SQUEEZE BOTTLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        215
+      ]
+    ],
+    "PRICES": [
+      "91.9"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/J.HUNGERFORD SMITH, 4005211.0": {
+    "ITEM_DESC": [
+      "TOPPING HOT FUDGE MELLOWCREAM 60517",
+      "TOPPING HOT FUDGE MELLOWCREAM 60517"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        216
+      ],
+      [
+        "STOREROOM",
+        217
+      ]
+    ],
+    "PRICES": [
+      "118.05",
+      "118.05"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 5083944.0": {
+    "ITEM_DESC": [
+      "CHERRY MARASCHINO WITH STEMS LARGE IN PLASTIC JAR"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        218
+      ]
+    ],
+    "PRICES": [
+      "22.93"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/REALEMON, 8624161.0": {
+    "ITEM_DESC": [
+      "JUICE LEMON"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        219
+      ]
+    ],
+    "PRICES": [
+      "33.36"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SACRAMENTO, 393294.0": {
+    "ITEM_DESC": [
+      "JUICE TOMATO"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        220
+      ]
+    ],
+    "PRICES": [
+      "18.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/V-8, 4019139.0": {
+    "ITEM_DESC": [
+      "JUICE VEGETABLE"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        221
+      ]
+    ],
+    "PRICES": [
+      "29.45"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 4790325.0": {
+    "ITEM_DESC": [
+      "CHOCOLATE FUDGE TOPPING"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        222
+      ]
+    ],
+    "PRICES": [
+      96.32
+    ],
+    "UNITS": [
+      "cs 6c"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 1484106.0": {
+    "ITEM_DESC": [
+      "APPLESAUCE IN JUICE UNSWEETENED CUP"
+    ],
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        224
+      ]
+    ],
+    "PRICES": [
+      "36.7"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/PREMIUM, 1237056.0": {
+    "ITEM_DESC": [
+      "APPETIZER SCALLOP BACON"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        5
+      ]
+    ],
+    "PRICES": [
+      "128.13"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7045694.0": {
+    "ITEM_DESC": [
+      "MARSCOPONE SPINACH RAVIOLI"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      33.55
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/ARREZZIO, 7265421.0": {
+    "ITEM_DESC": [
+      "PASTA GNOCCHI CHEESE",
+      "PASTA GNOCCHI CHEESE"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        8
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        43
+      ]
+    ],
+    "PRICES": [
+      "38.33",
+      "38.33"
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO/JADE MOUNTAIN, 4240331.0": {
+    "ITEM_DESC": [
+      "APPETIZER VEGETABLE SPRING ROLL"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        12
+      ]
+    ],
+    "PRICES": [
+      "81.15"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 292732.0": {
+    "ITEM_DESC": [
+      "SHITAKE POTSTICKERS"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        23
+      ]
+    ],
+    "PRICES": [
+      35.82
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1254390.0": {
+    "ITEM_DESC": [
+      "BLUEBERRIES "
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        40
+      ]
+    ],
+    "PRICES": [
+      32.13
+    ],
+    "UNITS": [
+      "12/1pt cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/IMPERIAL, 7107838.0": {
+    "ITEM_DESC": [
+      "APPETIZER PEPPER JALAPENO CREAM CHEESE BREADED"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        41
+      ]
+    ],
+    "PRICES": [
+      "$92.67 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7046157.0": {
+    "ITEM_DESC": [
+      "12OZ STRIPS "
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        44
+      ]
+    ],
+    "PRICES": [
+      102.21
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1633312.0": {
+    "ITEM_DESC": [
+      "PORK POTSTICKERS "
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        52
+      ]
+    ],
+    "PRICES": [
+      59.97
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1902588.0": {
+    "ITEM_DESC": [
+      "SOURDOUGH BREAD"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        57
+      ]
+    ],
+    "PRICES": [
+      57.94
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/LAMB SUPREME, 1257734.0": {
+    "ITEM_DESC": [
+      "POTATO HASH BROWN SIDE O BROWN 2.25 OZ"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        58
+      ]
+    ],
+    "PRICES": [
+      "83.51"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7225752.0": {
+    "ITEM_DESC": [
+      "DOUBLE-LOBE CHICKEN BREAST "
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        62
+      ]
+    ],
+    "PRICES": [
+      81.42
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/COLEMAN NATURAL MEAT, 1534452.0": {
+    "ITEM_DESC": [
+      "CHICKEN BONELESSS SKINLESS BREAST 6OZ"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        63
+      ]
+    ],
+    "PRICES": [
+      "104"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/CLASSIC, 4347126.0": {
+    "ITEM_DESC": [
+      "TURKEY BREAST BONELESS RAW FOIL 32%"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        65
+      ]
+    ],
+    "PRICES": [
+      "4.214"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/FARM RICH, 1251461.0": {
+    "ITEM_DESC": [
+      "TOAST FRENCH STICK HEAT & SERVE"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        67
+      ]
+    ],
+    "PRICES": [
+      "34.81"
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 7338718.0": {
+    "ITEM_DESC": [
+      "PLANT-BASED CHIX NUGGETS"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        73
+      ]
+    ],
+    "PRICES": [
+      42.41
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BRAKEBUSH BROTHERS, 3606712.0": {
+    "ITEM_DESC": [
+      "CHICKEN POPCORN ALL WHITE BREADED"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        78
+      ]
+    ],
+    "PRICES": [
+      "$38.07 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BLOCK & BARREL, 6421895.0": {
+    "ITEM_DESC": [
+      "CHICKEN HALF OVEN ROASTED FRESH"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        79
+      ]
+    ],
+    "PRICES": [
+      "3.58"
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 1031657.0": {
+    "ITEM_DESC": [
+      "CHICKEN WINGS"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        80
+      ]
+    ],
+    "PRICES": [
+      59.49
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/BAKER'S SOURCE, 7223080.0": {
+    "ITEM_DESC": [
+      "BUN HOT DOG WHITE 6 HINGED"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        81
+      ]
+    ],
+    "PRICES": [
+      "$35.69 "
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6780033.0": {
+    "ITEM_DESC": [
+      "BASEBALL SIRLOIN"
+    ],
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        82
+      ]
+    ],
+    "PRICES": [
+      13.302
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  }
+}

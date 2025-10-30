@@ -1,0 +1,17 @@
+# Usage: pip install -r requirements.txt
+
+# Libraries
+
+
+datetime
+frontend
+imagehash
+matplotlib
+numpy
+opencv-python
+openpyxl
+pandas
+Pillow
+PyMuPDF
+pytesseract
+

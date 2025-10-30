@@ -1,0 +1,8034 @@
+{
+  "SYSCO, CHIPOLTE CAN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        4
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FRENCH ONION SOUP": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        5
+      ],
+      [
+        "MK WALK IN",
+        15
+      ]
+    ],
+    "PRICES": [
+      0,
+      0
+    ],
+    "UNITS": [
+      "gal",
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "NAN, SOUP?": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        6
+      ]
+    ],
+    "PRICES": [
+      10
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, BISTRO FILET": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        7
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, PORK CHOP": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        8
+      ],
+      [
+        "MK 4 DOOR FREEZER",
+        18
+      ],
+      [
+        "MK HOT LINE",
+        8
+      ]
+    ],
+    "PRICES": [
+      1.43,
+      1.43,
+      1.43
+    ],
+    "UNITS": [
+      "LB",
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, NY STRIP": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        9
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, MSU NECK BONE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        10
+      ]
+    ],
+    "PRICES": [
+      3.45
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, MSU 8OZ BURGER": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        11
+      ],
+      [
+        "BASEMENT FREEZER",
+        13
+      ]
+    ],
+    "PRICES": [
+      7.5,
+      7.5
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, WINGS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        12
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, WHOLE AMISH CHICKEN (UPDATE)": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        13
+      ]
+    ],
+    "PRICES": [
+      2.56
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, TRUFFLE PECORINO": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        14
+      ]
+    ],
+    "PRICES": [
+      15.92
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "BREADSMITH, 6 INCH FRENCH BAGUETTE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        16
+      ]
+    ],
+    "PRICES": [
+      1.25
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CHICK STOCK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        17
+      ]
+    ],
+    "PRICES": [
+      0
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FISH STOCK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        18
+      ]
+    ],
+    "PRICES": [
+      0
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ROASTED TOMATO": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        19
+      ],
+      [
+        "BASEMENT FREEZER",
+        36
+      ]
+    ],
+    "PRICES": [
+      51.19,
+      51.19
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "STAN SETAS, GARLIC CLOVES": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        20
+      ]
+    ],
+    "PRICES": [
+      15
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, STANDARD ASPARAGUS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        21
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, AU JUS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        23
+      ]
+    ],
+    "PRICES": [
+      0
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BARBEQUE SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        24
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MARINARA": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        25
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "can"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HEAVY CREAM 36%": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        26
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MILK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        27
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MEAT BALL": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        28
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, LASAGNA": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        29
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ENGLISH MUFFIN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        31
+      ]
+    ],
+    "PRICES": [
+      32.58
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, OUTSIDE SKIRT STEAK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        32
+      ]
+    ],
+    "PRICES": [
+      4.59
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 6OZ SIRLOINS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        34
+      ]
+    ],
+    "PRICES": [
+      19.25
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, BABY BACK RIBS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        35
+      ],
+      [
+        "BASEMENT FREEZER",
+        46
+      ]
+    ],
+    "PRICES": [
+      4.75,
+      4.75
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, BASEBALL STEAK 8 OZ": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        37
+      ]
+    ],
+    "PRICES": [
+      19.1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BEEF TENDERLOIN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        38
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        55
+      ]
+    ],
+    "PRICES": [
+      23.26,
+      23.26
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, FLANK STEAK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        39
+      ]
+    ],
+    "PRICES": [
+      20
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ASSORTED DINNER ROLLS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        40
+      ]
+    ],
+    "PRICES": [
+      48.42
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GORDONS, BACON": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        41
+      ]
+    ],
+    "PRICES": [
+      70.99
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BUTTERMILK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        42
+      ]
+    ],
+    "PRICES": [
+      24.07
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 2% MILK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        43
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SOUR CREAM": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        44
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, FLAT SHELL EGGS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        45
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHILI GARLIC SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        46
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TOMATO PASTE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        47
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "can"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HOISIN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        48
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "can"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PLUM SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        49
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "jug"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BBQ": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        50
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, RED MISO": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        51
+      ]
+    ],
+    "PRICES": [
+      29.8
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, CHICKEN BASE PREMIUM": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        52
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SHRIMP BASE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        53
+      ]
+    ],
+    "PRICES": [
+      35.55
+    ],
+    "UNITS": [
+      "container"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, FISH BASE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        54
+      ]
+    ],
+    "PRICES": [
+      35
+    ],
+    "UNITS": [
+      "container"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, HAM BASE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        55
+      ]
+    ],
+    "PRICES": [
+      35
+    ],
+    "UNITS": [
+      "container"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, VEGETABLE BASE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        56
+      ]
+    ],
+    "PRICES": [
+      20
+    ],
+    "UNITS": [
+      "container"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, NUT FREE PEST": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        57
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, OYSTER SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        58
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BLACK BEAN GARLIC SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        59
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MA PLOY SWEET CHILI SAUCE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        60
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "ASIAN MARKET, MIRIN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        61
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, DARK SOY": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        62
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CAPERS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        63
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, LEMON JUICE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        64
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ORANGE JUICE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        65
+      ]
+    ],
+    "PRICES": [
+      34.36
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PINEAPPLE JUICE": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        66
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, EGG WHITES": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        67
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, EGG YOLK": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        68
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, SCOTTISH SALMON": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        69
+      ],
+      [
+        "MK 4 DOOR FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      9.94,
+      9.94
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, BLACK BASS": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        70
+      ],
+      [
+        "MK 4 DOOR FREEZER",
+        7
+      ]
+    ],
+    "PRICES": [
+      22.21,
+      22.21
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, WHITEFISH": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        71
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, 20 LBS CHICK BREAST 6OZ": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        72
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MK WALK IN TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK WALK IN",
+        74
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "FARMER DENNIS, YELLOW ONION": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        1
+      ]
+    ],
+    "PRICES": [
+      0.69
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, YELLOW ONION": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        2
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "FARMER DENNIS, RED ONION": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        3
+      ]
+    ],
+    "PRICES": [
+      0.79
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ONION, COLOSSAL": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        4
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ONION, RED JUMBO": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        5
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ANGEL HAIR PASTA": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        6
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SPAGHETTI": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BROWN RICE": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        8
+      ]
+    ],
+    "PRICES": [
+      19.48
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, DRAKES": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        9
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bag"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ABORIO RICE": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        10
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "box"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MEIJER, SUSHI RICE": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        11
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CORNMEAL": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        12
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, GLUTEN FREE FLOUR": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        13
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PAR BOILED RICE": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        14
+      ]
+    ],
+    "PRICES": [
+      29.95
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, POTATOES, IDAHO": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        15
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, POTATOES, FINGERLING": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        16
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, POTATOES, RED": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        17
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, POTATOES, YUKON GOLD": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        18
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MK BLUE RACK TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK BLUE RACK",
+        19
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHICKEN FINGERS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        2
+      ],
+      [
+        "MK HOT LINE FREEZER",
+        3
+      ],
+      [
+        "BASEMENT FREEZER",
+        16
+      ]
+    ],
+    "PRICES": [
+      47,
+      47,
+      47
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, CHILEAN SEA BASS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      32.73
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, AMISH CHICKEN BREAST": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        5
+      ],
+      [
+        "MK HOT LINE FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      71.44,
+      71.44
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SUPERIOR, AIRLINE CHICKEN BREAST": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      50.61
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, WHITE FISH": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        8
+      ]
+    ],
+    "PRICES": [
+      10.51
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SHRIMP 51-60": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        10
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 3 OZ BURGER": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        11
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, WINGS (FROM AMISH CHICKEN)": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        13
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, PORK NECK BONES": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        14
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORHERN LAKES, U10 SCALLOPS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        15
+      ]
+    ],
+    "PRICES": [
+      185
+    ],
+    "UNITS": [
+      "Tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, LUMP FISH CAVIAR": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        16
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      "Tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, COCONUT CHICKEN": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        19
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SPRING ROLLS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        20
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bag"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SWEET POTATO WAFFLE FRIES": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        21
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bag"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, HALIBUT": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        22
+      ]
+    ],
+    "PRICES": [
+      22.1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SMOKED SALMON": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        23
+      ],
+      [
+        "BASEMENT FREEZER",
+        97
+      ]
+    ],
+    "PRICES": [
+      1,
+      1
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, POPCORN CHICKEN": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        24
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bag"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PANCAKES": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        25
+      ]
+    ],
+    "PRICES": [
+      38.2
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES , CHICKEN SATAY": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        26
+      ]
+    ],
+    "PRICES": [
+      120
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CANADIAN BACON": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        27
+      ],
+      [
+        "BASEMENT FREEZER",
+        67
+      ]
+    ],
+    "PRICES": [
+      1,
+      1
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "VAN EERDEN, FAJITA CHICKEN STRIPS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        28
+      ]
+    ],
+    "PRICES": [
+      59.12
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, VEGAN MEATBALLS": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        29
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, FLAT BREAD": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        30
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "pack"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MK 4 DOOR FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK 4 DOOR FREEZER",
+        31
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SWISS": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        1
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, AMERICAN": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        2
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PEPPER JACK": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        3
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHEDDAR": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        4
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GRUYERE": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        5
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PROVOLONE": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        6
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, MSU BURGER": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MK HOT LINE TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE",
+        9
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TANGLERS": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bg"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, FRENCH TOAST STICK": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      34.09
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PEPPERONI": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        7
+      ],
+      [
+        "GARDE MANGER COOLER",
+        71
+      ]
+    ],
+    "PRICES": [
+      1,
+      1
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "MK HOT LINE FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK HOT LINE FREEZER",
+        8
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SAUTE OIL": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        1
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "box"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, OLIVE OIL": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        2
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "box"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BALSAMIC VINEGAR": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        3
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MAE PLOY SWEET CHILI": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        4
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bottle"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHAMPAGNE VINEGAR": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        5
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FISH SAUCE": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        6
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bottle"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PEANUTS": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, QUICK OATS": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        8
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MK BACK SHELF TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "MK BACK SHELF",
+        9
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "UPSTAIRS ICE CREAM FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "UPSTAIRS ICE CREAM FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ENGLISH CUCUMBERS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        1
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CAULIFLOWER": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        2
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BABY RAINBOW CARROTS W/TOPS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        3
+      ]
+    ],
+    "PRICES": [
+      29.8
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, RAINBOW CARROT SHREDDED": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        4
+      ]
+    ],
+    "PRICES": [
+      22.07
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CARROTS, BABY PEELED W/ TOPS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        5
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CARROTS, LOOSE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        6
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BABY CARROTS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        7
+      ]
+    ],
+    "PRICES": [
+      12.55
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PARSNIPS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        8
+      ]
+    ],
+    "PRICES": [
+      2.25
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FIG SPREAD": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        12
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, VANILLA LOW FAT YOGURT": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        13
+      ]
+    ],
+    "PRICES": [
+      15.69
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PESTO NUT": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        14
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GREEN PEPPERCORNS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        15
+      ]
+    ],
+    "PRICES": [
+      28.16
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MAJOR GREY'S CHUTNEY": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        16
+      ]
+    ],
+    "PRICES": [
+      4.33
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GOAT CHEESE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        17
+      ]
+    ],
+    "PRICES": [
+      59.59
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, GREEN CABBAGE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        18
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ARTICHOKE HEARTS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        19
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "can"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MANDARIN ORANGES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        20
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "can"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WAFFLE BATTER": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        21
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "bg"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SALSA": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        22
+      ]
+    ],
+    "PRICES": [
+      56.59
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, DIJON MUSTARD": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        23
+      ]
+    ],
+    "PRICES": [
+      23.62
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GRAIN MUSTARD": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        24
+      ]
+    ],
+    "PRICES": [
+      71.9
+    ],
+    "UNITS": [
+      "cs 4c"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MAYO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        25
+      ]
+    ],
+    "PRICES": [
+      16.38
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MAYO HEAVY DUTY PAIL-1/28LB": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        26
+      ]
+    ],
+    "PRICES": [
+      49.84
+    ],
+    "UNITS": [
+      "bucket"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SWEET PICKLE RELISH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        27
+      ]
+    ],
+    "PRICES": [
+      10.05
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED JALAPENO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        28
+      ]
+    ],
+    "PRICES": [
+      26.42
+    ],
+    "UNITS": [
+      "cs 4c"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BLACK OLIVES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        33
+      ]
+    ],
+    "PRICES": [
+      87.86
+    ],
+    "UNITS": [
+      "cs 6c"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VANEERDEN, PICKLE CHIP SWEET HOTTIE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        35
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CELERY": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        37
+      ]
+    ],
+    "PRICES": [
+      36.72
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ZUCCHINI": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        38
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ACORN SQUASH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        39
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BUTTERNUT SQUASH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        40
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, YELLOW SQUASH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        41
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BRUSSEL SPROUTS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        42
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BROCCOLI": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        43
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, DRESSING - SESAME": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        44
+      ]
+    ],
+    "PRICES": [
+      21.5
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CILANTRO LIME U": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        46
+      ]
+    ],
+    "PRICES": [
+      31.91
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SWEET SOY": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        47
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PEARS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        48
+      ],
+      [
+        "GARDE MANGER COOLER",
+        134
+      ]
+    ],
+    "PRICES": [
+      0.75,
+      0.75
+    ],
+    "UNITS": [
+      "EACH",
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, FETA YASOU VINAIGRETTE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        50
+      ]
+    ],
+    "PRICES": [
+      28.57
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HIDDEN VALLEY RANCH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        52
+      ]
+    ],
+    "PRICES": [
+      67.72
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BLUE CHEESE DRESSING": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        53
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CAESAR DRESSING": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        54
+      ]
+    ],
+    "PRICES": [
+      38.75
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ITALIAN DRESSING": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        55
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BOURSIN": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        58
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BLUE CHEESE WHEEL MAYTAG": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        62
+      ]
+    ],
+    "PRICES": [
+      16.08
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WHITE CHEDDAR": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        63
+      ]
+    ],
+    "PRICES": [
+      62.87
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, REGULAR CHEDDAR LOAF": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        65
+      ]
+    ],
+    "PRICES": [
+      35.51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED HAM": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        66
+      ]
+    ],
+    "PRICES": [
+      51.17
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PROSCIUTTO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        67
+      ]
+    ],
+    "PRICES": [
+      7.92
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED ROAST BEEF": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        68
+      ]
+    ],
+    "PRICES": [
+      9.35
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED CORNED BEEF": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        69
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SHAVED CORN BEEF": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        70
+      ],
+      [
+        "BASEMENT FREEZER",
+        65
+      ]
+    ],
+    "PRICES": [
+      7.43,
+      7.43
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, DRIED CHORIZO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        72
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MOZZARELLA (AGAIN)": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        73
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, WHITE CHEDDAR (AGAIN)": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        74
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED SWISS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        76
+      ]
+    ],
+    "PRICES": [
+      50.74
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED PROVOLONE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        77
+      ]
+    ],
+    "PRICES": [
+      45.15
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED GRUYERE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        78
+      ]
+    ],
+    "PRICES": [
+      75.92
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ASIAGO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        79
+      ]
+    ],
+    "PRICES": [
+      39.87
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CREAM CHEESE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        80
+      ]
+    ],
+    "PRICES": [
+      91.26
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CUBED PEPPERJACK": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        82
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CUBED SWISS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        83
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SHULARS CHEESE SPREAD": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        84
+      ]
+    ],
+    "PRICES": [
+      82.29
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, SMOKED TROUT": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        86
+      ],
+      [
+        "BASEMENT FREEZER",
+        94
+      ]
+    ],
+    "PRICES": [
+      19.25,
+      19.25
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "GORDONS, 5TH TOMATO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        87
+      ]
+    ],
+    "PRICES": [
+      3.69
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, JUMBO CARROT": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        88
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BABY ARTISAN LETTUCE CLAMSHELL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        89
+      ]
+    ],
+    "PRICES": [
+      42.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, HYDRO BIBB LETTUCE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        90
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BABY ARUGULA": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        91
+      ]
+    ],
+    "PRICES": [
+      32.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, SPINACH, BABY": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        92
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ORGANIC SPRING MIX": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        93
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ROAMAINE HEARTS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        94
+      ]
+    ],
+    "PRICES": [
+      36.5
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, TOMATOES, GRAPE": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        95
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, HEIRLOOM GRAPE TOMATO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        96
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PORTOBELLO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        97
+      ]
+    ],
+    "PRICES": [
+      22.98
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, GREEN PEPPERS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        98
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PEPPERS, RED": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        99
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PEPPERS, YELLOW": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        100
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, TOMATOES, 5X6": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        101
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GREEN ONIONS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        102
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, GREEN ONIONS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        103
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, WATERMELON RADISH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        104
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PEPPERS, JALAPENO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        105
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, THYME": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        107
+      ],
+      [
+        "GARDE MANGER COOLER",
+        111
+      ]
+    ],
+    "PRICES": [
+      9.75,
+      9.75
+    ],
+    "UNITS": [
+      "LB",
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "STAN SETAS, OREGANO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        108
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, SPEARMINT": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        109
+      ]
+    ],
+    "PRICES": [
+      9.75
+    ],
+    "UNITS": [
+      "HALF"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ROSEMARY": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        110
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PARSLEY, ITALIAN": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        112
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, FENNEL BULB": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        113
+      ]
+    ],
+    "PRICES": [
+      44.78
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BABY DILL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        115
+      ]
+    ],
+    "PRICES": [
+      9.75
+    ],
+    "UNITS": [
+      "Half"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BASIL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        116
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CILANTRO, CALIFORNIA": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        117
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CILANTRO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        118
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, TARRAGON": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        119
+      ]
+    ],
+    "PRICES": [
+      16.75
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CORN, COB BICOLOR": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        121
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CHIVES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        122
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BLUEBERRIES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        123
+      ]
+    ],
+    "PRICES": [
+      46.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, MANGOS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        124
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, RED SEEDLESS GRAPES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        125
+      ]
+    ],
+    "PRICES": [
+      8.75
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, RASPBERRIES, DRISCOLL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        126
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BLACKBERRIES, DRISCOLL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        127
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, STRAWBERRIES, DRISCOLL": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        128
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CANTALOUPES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        129
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, HONEYDEW MELONS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        130
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PINEAPPLES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        131
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, LEMONS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        132
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, HEIRLOOM GRAPE TOMATOES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        133
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, APPLES, GRANNY SMITH": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        135
+      ]
+    ],
+    "PRICES": [
+      0.8
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, APPLES, FUJI": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        136
+      ]
+    ],
+    "PRICES": [
+      58.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ORANGES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        137
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, LIMES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        138
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BANANAS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        139
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MASHED AVOCADO": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        140
+      ]
+    ],
+    "PRICES": [
+      53.35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, AVOCADO HALVES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        141
+      ]
+    ],
+    "PRICES": [
+      46.54
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, CLEMENTINES": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        142
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WATERMELON": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        143
+      ]
+    ],
+    "PRICES": [
+      8.75
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, GINGER": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        145
+      ]
+    ],
+    "PRICES": [
+      2.75
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, MUSHROOMS, CRIMINI": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        146
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, MUSHROOMS, MEDIUM": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        147
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, MUSHROOMS, OYSTER": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        148
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, MUSHROOMS, PORTABELLA": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        149
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ASP": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        150
+      ]
+    ],
+    "PRICES": [
+      54.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, HERICOT, VERT FRENCH BEANS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        151
+      ]
+    ],
+    "PRICES": [
+      46.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, LEEKS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        152
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, BEANS, GREEN TRIMED 2/5#": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        153
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, PEAS, SUGAR SNAP": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        154
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ROMAINE, PREMIUM": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        155
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, ROMAINE HEARTS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        156
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STAN SETAS, TOMATILLOS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        157
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MISC.": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        158
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GARDE MANGER COOLER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER COOLER",
+        159
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLICED ALMONDS": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        2
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GARDE MANGER STATION TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "GARDE MANGER STATION",
+        16
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BAGUETTE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      35.75
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BRAT BUNS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        4
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        36
+      ]
+    ],
+    "PRICES": [
+      35.95,
+      35.95
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "SYSCO, KIDS BURGER BUNS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        5
+      ]
+    ],
+    "PRICES": [
+      37.83
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HOT DOG BUNS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      35.69
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SAUSAGE LINKS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        7
+      ]
+    ],
+    "PRICES": [
+      48.39
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, DUCK BREAST": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        9
+      ]
+    ],
+    "PRICES": [
+      18.1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, LAMB RACK": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        10
+      ]
+    ],
+    "PRICES": [
+      16.38
+    ],
+    "UNITS": [
+      "Lb"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 8OZ BURGER": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        11
+      ]
+    ],
+    "PRICES": [
+      76.23
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, MSU 5OZ BURGER": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        12
+      ]
+    ],
+    "PRICES": [
+      9.75
+    ],
+    "UNITS": [
+      "4 -patty pack"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TURKEY BURGER": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        14
+      ]
+    ],
+    "PRICES": [
+      53.86
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BRATS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        15
+      ]
+    ],
+    "PRICES": [
+      35.91
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TEMPURA CHICKEN": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        17
+      ],
+      [
+        "BASEMENT FREEZER",
+        33
+      ],
+      [
+        "HENRY CENTER FREEZER",
+        34
+      ]
+    ],
+    "PRICES": [
+      41.28,
+      41.28,
+      41.28
+    ],
+    "UNITS": [
+      "CASE",
+      "CASE",
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN,
+      NaN
+    ]
+  },
+  "NAN, 3OZ BURGER": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        18
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FROZEN CORN": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        21
+      ]
+    ],
+    "PRICES": [
+      51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MINI MEATBALLS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        22
+      ]
+    ],
+    "PRICES": [
+      48.52
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MSU HOT DOGS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        23
+      ]
+    ],
+    "PRICES": [
+      106.69
+    ],
+    "UNITS": [
+      "150 cs"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HOT DOGS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        24
+      ]
+    ],
+    "PRICES": [
+      48
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BLACK BEAN VEGGIE BURGER": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        27
+      ]
+    ],
+    "PRICES": [
+      69.49
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHICKEN TORTELLINI": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        29
+      ]
+    ],
+    "PRICES": [
+      63.91
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FROZEN CHICKEN THIGHS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        31
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, HUSH PUPPY": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        32
+      ]
+    ],
+    "PRICES": [
+      20.09
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CONEY CHILI": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        39
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CORN TORTILLAS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        40
+      ]
+    ],
+    "PRICES": [
+      46.85
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, MSU PORK BUTT": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        41
+      ]
+    ],
+    "PRICES": [
+      2.4
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ONION RINGS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        44
+      ]
+    ],
+    "PRICES": [
+      44
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, TATER TOTS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        45
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, FRENCH FRIES": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        48
+      ]
+    ],
+    "PRICES": [
+      54.64
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ACE BUNS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        50
+      ]
+    ],
+    "PRICES": [
+      29.2
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, POMEGRANATE PUREE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        55
+      ]
+    ],
+    "PRICES": [
+      135
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, KIDS PIZZA": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        56
+      ]
+    ],
+    "PRICES": [
+      56.86
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHEESE BLINTZ": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        57
+      ]
+    ],
+    "PRICES": [
+      118.35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHEESE RAVIOLI": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        58
+      ]
+    ],
+    "PRICES": [
+      34.05
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ANDOUILLE SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        59
+      ]
+    ],
+    "PRICES": [
+      43.44
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BAGELS SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        60
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ITALIAN SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        66
+      ]
+    ],
+    "PRICES": [
+      3.35
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHORIZO SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        68
+      ]
+    ],
+    "PRICES": [
+      2.66
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, VEGAN SAUSAGE CHORIZO": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        69
+      ]
+    ],
+    "PRICES": [
+      40.32
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, ITALIAN SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        70
+      ]
+    ],
+    "PRICES": [
+      3.34
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CHICKEN HALVES": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        71
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SEAFOOD SENSATION": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        72
+      ]
+    ],
+    "PRICES": [
+      74.84
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, LOBSTER SENSATION": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        73
+      ]
+    ],
+    "PRICES": [
+      126.47
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO ?, JONAH CRAB CLAWS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        74
+      ]
+    ],
+    "PRICES": [
+      10.52
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO?, CRAWFISH TAIL MEAT": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        75
+      ]
+    ],
+    "PRICES": [
+      17
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, LOBSTER TAILS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        77
+      ]
+    ],
+    "PRICES": [
+      219.61
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MUSSELS COOKED(REAL NAME)": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        78
+      ]
+    ],
+    "PRICES": [
+      2.7
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, OYSTER TUB": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        79
+      ]
+    ],
+    "PRICES": [
+      48.95
+    ],
+    "UNITS": [
+      "Tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TILAPIA": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        80
+      ]
+    ],
+    "PRICES": [
+      6.4
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, COD": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        81
+      ]
+    ],
+    "PRICES": [
+      8.67
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BREADED SCALLOPS": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        83
+      ]
+    ],
+    "PRICES": [
+      185
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BLUEGILL": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        84
+      ]
+    ],
+    "PRICES": [
+      150
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BREADED SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        85
+      ]
+    ],
+    "PRICES": [
+      41
+    ],
+    "UNITS": [
+      "boxes?"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 8- 12 SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        86
+      ]
+    ],
+    "PRICES": [
+      99.26
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, SCALLOP BAY DRY 60-80 IQF": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        87
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BAY SCALLOPS 80 / 120": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        88
+      ]
+    ],
+    "PRICES": [
+      72.82
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 31 - 40 SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        89
+      ]
+    ],
+    "PRICES": [
+      64.31
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 16-20 SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        90
+      ]
+    ],
+    "PRICES": [
+      65.55
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 51-60 SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        91
+      ]
+    ],
+    "PRICES": [
+      52.41
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, 26-30 SHRIMP": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        92
+      ]
+    ],
+    "PRICES": [
+      59.27
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SMOKED MACKEREL": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        93
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SMOKED WHITE FISH": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        95
+      ]
+    ],
+    "PRICES": [
+      10.51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FLAVORED SMOKED SALMON": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        96
+      ]
+    ],
+    "PRICES": [
+      13.68
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, GLUTEN FREE HOT DOG BUN": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        100
+      ]
+    ],
+    "PRICES": [
+      50
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VANEERDEN, GLUTEN FREE ROLL": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        103
+      ]
+    ],
+    "PRICES": [
+      39.92
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "BASEMENT FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "BASEMENT FREEZER",
+        107
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, BEEF BASE PREMIUM": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        5
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, LOBSTER BASE-L": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        6
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, SCHREIBER TURKEY BASE": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        9
+      ]
+    ],
+    "PRICES": [
+      20.29
+    ],
+    "UNITS": [
+      "tub"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WHEAT TORTILLA": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        14
+      ]
+    ],
+    "PRICES": [
+      30
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GFS, JELLO": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        16
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "pack"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GFS, PUDDING CUPS": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        17
+      ]
+    ],
+    "PRICES": [
+      5.49
+    ],
+    "UNITS": [
+      "pack"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, ORANGE JUICE": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        33
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "52 oz"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SAUSAGE LINKS": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        38
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PITT HAM": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        39
+      ]
+    ],
+    "PRICES": [
+      4.01
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BRIE": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        61
+      ]
+    ],
+    "PRICES": [
+      39.15
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SANDWICH PEPPERONI": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        72
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKES, CHORIZO SAUSAGE": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        76
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "BASEMENT WALK-IN TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "BASEMENT WALK IN",
+        83
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SUGAR FREE VANILLA": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        2
+      ]
+    ],
+    "PRICES": [
+      32
+    ],
+    "UNITS": [
+      "3 gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MINT CHOCOLATE CHIP": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "3 gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SPARTAN SWIRL": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      40
+    ],
+    "UNITS": [
+      "3 gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BLUE RIBBON VARIETY PACK\n-ICE CREAM SANDWICH\n-DRUMSTICKS\n-FUDGE BAR": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        10
+      ]
+    ],
+    "PRICES": [
+      17.99
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, DRUMSTICKS": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        12
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "BASEMENT ICE CREAM FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "BASEMENT ICE CREAM FREEZER",
+        22
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, RIBEYE COOKED": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        5
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, WAGYU BRISKET": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        6
+      ]
+    ],
+    "PRICES": [
+      8.3
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BLACK BASS": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, GRUMPEN TRIM": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        8
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BONE-IN PORK CHOP": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        9
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, SMOKED PORK SHOULDER": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        10
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "BASEMENT PROTEIN FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "BASEMENT PROTEIN FREEZER",
+        11
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, REY DEL ARROZ SPANISH PAELLA RICE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        2
+      ]
+    ],
+    "PRICES": [
+      8
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CHIEFTAN CALICO BLEND": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        20
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, VEG STOCK": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        21
+      ]
+    ],
+    "PRICES": [
+      21.29
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, BEEF STOCK": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        22
+      ]
+    ],
+    "PRICES": [
+      20.74
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SCHREIBER, CHICKEN STOCK": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        23
+      ]
+    ],
+    "PRICES": [
+      20.29
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BARLEY": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        24
+      ]
+    ],
+    "PRICES": [
+      23.95
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VANEERDEN, COFFEE BEAN DECAF DINER'S": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        42
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VANEERDEN, COFFEE WHOLE BEAN COLUMBIAN": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        43
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "CARBON'S GOLDEN MALTED, GOLDEN MALTED WAFFLE MIX": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        46
+      ]
+    ],
+    "PRICES": [
+      108
+    ],
+    "UNITS": [
+      "cs 8ct"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MONIN ROOT BEER SYRUP": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        56
+      ]
+    ],
+    "PRICES": [
+      35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FRENCH ONION MIX": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        61
+      ]
+    ],
+    "PRICES": [
+      25
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CRACKER MIX": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        66
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CRISP BAKES": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        67
+      ]
+    ],
+    "PRICES": [
+      11
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, EQUAL": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        68
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BLACK CHERRY PUREE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        71
+      ]
+    ],
+    "PRICES": [
+      95
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, POMEGRANITE PUREE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        72
+      ]
+    ],
+    "PRICES": [
+      135
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SPICES": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        92
+      ]
+    ],
+    "PRICES": [
+      1000
+    ],
+    "UNITS": [
+      "oz"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, TOMATO PUREE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        97
+      ]
+    ],
+    "PRICES": [
+      41.47
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, IMPERIAL DARK SWEET CHERRIES": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        106
+      ]
+    ],
+    "PRICES": [
+      64.95
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GRAPE JELLY": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        123
+      ]
+    ],
+    "PRICES": [
+      7.25
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "FUSTINI'S, FUSTINI OIL": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        146
+      ],
+      [
+        "STOREROOM",
+        147
+      ]
+    ],
+    "PRICES": [
+      41.95,
+      41.95
+    ],
+    "UNITS": [
+      "750mL / 25 oz",
+      "750mL / 25 oz"
+    ],
+    "QUANTITY": [
+      NaN,
+      NaN
+    ]
+  },
+  "NAN, AMCHUR POWDER": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        166
+      ]
+    ],
+    "PRICES": [
+      7.99
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MIRIN": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        167
+      ]
+    ],
+    "PRICES": [
+      8.49
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MUSTARD OIL": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        168
+      ]
+    ],
+    "PRICES": [
+      7.99
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, GRAPESEED OIL": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        169
+      ]
+    ],
+    "PRICES": [
+      8.5
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WALNUT OIL": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        170
+      ]
+    ],
+    "PRICES": [
+      7.47
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, OYSTER SAUCE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        173
+      ]
+    ],
+    "PRICES": [
+      5.5
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, RED CHILI PASTE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        180
+      ]
+    ],
+    "PRICES": [
+      10.49
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, HARISSA": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        181
+      ]
+    ],
+    "PRICES": [
+      7.99
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, POPPEN DELLE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        183
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "GFS, GNOCCHI": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        188
+      ]
+    ],
+    "PRICES": [
+      4.79
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ROTINI": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        195
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SLAW DRESSING": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        203
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, POTATO REAL MASHED": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        204
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, HOUSE PACIFIC CHOCOLATE SYRUP": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        223
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, U8": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        225
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, TOMATO JOBS": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        226
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, LEMON JUICE": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        227
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CHERRIES": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        228
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "STOREROOM TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "STOREROOM",
+        229
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, HAM": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        1
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, PERI PERI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        2
+      ]
+    ],
+    "PRICES": [
+      35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, RIBS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        3
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, GROUND BEEF": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        4
+      ]
+    ],
+    "PRICES": [
+      3.67
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, PRIME RIB (COOKED)": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        5
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, PORK TENDERLOIN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        6
+      ]
+    ],
+    "PRICES": [
+      2.55
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, STRIPLOIN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, TURKEY DRUMSTICKS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        8
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, TURKEY WING": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        9
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, NEW ZEALAND SEABASS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        10
+      ]
+    ],
+    "PRICES": [
+      15
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, ASIAN SEABASS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        11
+      ]
+    ],
+    "PRICES": [
+      12.25
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, SWORDFISH": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        12
+      ]
+    ],
+    "PRICES": [
+      15.15
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, TUNA BLOCK": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        13
+      ]
+    ],
+    "PRICES": [
+      15
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MAHI MAHI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        14
+      ]
+    ],
+    "PRICES": [
+      12.9
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO/SUPERIOR?, SNAPPER": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        15
+      ]
+    ],
+    "PRICES": [
+      15
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BARAMUNDI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        16
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, OYSTER HALF": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        17
+      ]
+    ],
+    "PRICES": [
+      115.28
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "HENRY CENTER FREEZER - SPEED RACK TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER - SPEED RACK",
+        18
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, LATIN CHICKEN TURNOVER": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        1
+      ]
+    ],
+    "PRICES": [
+      65
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, GOAT CHEESE PHYLO": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        2
+      ]
+    ],
+    "PRICES": [
+      35
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, EDAMI POTSTICKERS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        3
+      ]
+    ],
+    "PRICES": [
+      32.33
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MINI CRABCAKES": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        4
+      ]
+    ],
+    "PRICES": [
+      204
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, LOBSTER RAVIOLI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        7
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SPANAKOPITA": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        9
+      ]
+    ],
+    "PRICES": [
+      84.11
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, WILD MUSHROOM PURSE": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        10
+      ]
+    ],
+    "PRICES": [
+      51
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BUFFALO SPRING ROLL": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        11
+      ]
+    ],
+    "PRICES": [
+      81.15
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKE, CHICKEN LEMONGRASS POTSTICK": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        13
+      ]
+    ],
+    "PRICES": [
+      237.8
+    ],
+    "UNITS": [
+      "EACH"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKE, ASSORTED MINI QUICHE": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        14
+      ]
+    ],
+    "PRICES": [
+      152
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKE, PIMENTO MAC & CHZ BALLS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        15
+      ]
+    ],
+    "PRICES": [
+      50
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, MUSHROOM TART": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        16
+      ]
+    ],
+    "PRICES": [
+      50
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NL, ASPARAGUS PHYLLO": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        17
+      ]
+    ],
+    "PRICES": [
+      73.41
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NORTHERN LAKE, CASHEW CHICKEN SPRING ROLL": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        18
+      ]
+    ],
+    "PRICES": [
+      249
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MINI CHICKEN QUESADILLA": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        19
+      ]
+    ],
+    "PRICES": [
+      200
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VAN EERDEN, BREADED ASPARAGUS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        20
+      ]
+    ],
+    "PRICES": [
+      50
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MINI BEEF WELLINGTON": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        21
+      ]
+    ],
+    "PRICES": [
+      295
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BEEF BOURGUIGNON": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        22
+      ]
+    ],
+    "PRICES": [
+      92
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, THAI PEANUT CHICK": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        24
+      ]
+    ],
+    "PRICES": [
+      40
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MINI DEEP DISH PIZZA": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        25
+      ]
+    ],
+    "PRICES": [
+      71
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CRAB RANGOON": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        26
+      ]
+    ],
+    "PRICES": [
+      95.9
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PIGS N BLANKET": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        27
+      ]
+    ],
+    "PRICES": [
+      53.47
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, NASHVILLE CHICKEN WAFFLES": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        28
+      ]
+    ],
+    "PRICES": [
+      179
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PORK SHOULDER": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        29
+      ]
+    ],
+    "PRICES": [
+      1.8
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "MSU, PORK BUTT": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        30
+      ]
+    ],
+    "PRICES": [
+      0
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, KING CRAB LEGS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        31
+      ]
+    ],
+    "PRICES": [
+      71.29
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, CHICKEN STOCK": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        32
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "gal"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, VEG SPRING ROLL": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        33
+      ]
+    ],
+    "PRICES": [
+      176
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "VAN EERDEN, FAJITA CHICKEN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        35
+      ]
+    ],
+    "PRICES": [
+      59.12
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MANGO CHUNKS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        37
+      ]
+    ],
+    "PRICES": [
+      63.61
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, FROZEN PEACH": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        38
+      ]
+    ],
+    "PRICES": [
+      29.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CATFISH NUGGETS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        39
+      ]
+    ],
+    "PRICES": [
+      31.88
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, PORTOBELLO MUSHROOM RAVIOLI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        46
+      ]
+    ],
+    "PRICES": [
+      42.7
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, HONEY MAPLE TURKEY BREAST": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        47
+      ]
+    ],
+    "PRICES": [
+      15
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, FROZEN LEMONADE": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        48
+      ]
+    ],
+    "PRICES": [
+      10
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, COCONUT CHICKEN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        49
+      ]
+    ],
+    "PRICES": [
+      128
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, COCONUT SHRIMP": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        50
+      ]
+    ],
+    "PRICES": [
+      128
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, RUBY RED STEELHEAD TROUT": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        51
+      ]
+    ],
+    "PRICES": [
+      8.45
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, HONEY STUNG CHICKEN (8P)": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        53
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, 8CT CUT CHICKEN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        54
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, WAYGU BRISKET": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        56
+      ]
+    ],
+    "PRICES": [
+      8.3
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, VEGGIE LASAGNA": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        59
+      ]
+    ],
+    "PRICES": [
+      73.5
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, MEAT LASAGNA": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        60
+      ]
+    ],
+    "PRICES": [
+      101.23
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, SLIDER BUNS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        61
+      ]
+    ],
+    "PRICES": [
+      73.49
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, AMISH CHICKEN WINGS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        64
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, PEPPERONI": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        68
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, VEGAN BREAKFAST SAUSAGE": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        70
+      ]
+    ],
+    "PRICES": [
+      69.09
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "NAN, BREAKFAST POTATOES": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        72
+      ]
+    ],
+    "PRICES": [
+      1
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SUPERIOR, AMISH WHOLE CHICKEN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        75
+      ]
+    ],
+    "PRICES": [
+      2.55
+    ],
+    "UNITS": [
+      "LB"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, BEAN & CHEESE BURRITOS": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        76
+      ]
+    ],
+    "PRICES": [
+      34
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "SYSCO, CHICKEN SALSA VERDE TAMALES": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        77
+      ]
+    ],
+    "PRICES": [
+      40
+    ],
+    "UNITS": [
+      "CASE"
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  },
+  "HENRY CENTER FREEZER TOTAL:, NAN": {
+    "SECTIONS": [
+      [
+        "HENRY CENTER FREEZER",
+        83
+      ]
+    ],
+    "PRICES": [
+      NaN
+    ],
+    "UNITS": [
+      NaN
+    ],
+    "QUANTITY": [
+      NaN
+    ]
+  }
+}

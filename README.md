@@ -1,5 +1,8 @@
-# UClub2025InventoryPricingProject
+
+
+
 This project was created by Colin W Fairbourn (he/him) during the Fall of 2025. Purpose is to assist the admin at the University Club of MSU in maintaining accurate and up to date information on their inventory by analyzing invoices given to us by Sysco, gathering the information on any and all items purchased and their price, so that when inventory is counted, they have accurate and recent prices on any items that are in inventory.
+
 
 ___
 
