@@ -142,7 +142,7 @@ There is a package named Tesseract that requires installation.
 
 Go to [Tesseract's Github](https://github.com/UB-Mannheim/tesseract/wiki) and download the latest Tesseract installer for Windows. At time of writing, look for this link: [tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)]
 
-Run the downloaded .exe file and follow through the default instructions.
+Run the downloaded .exe file and follow through the default instructions. **Note: It is VITAL that, when prompted, Tesseract be installed for anyone using this computer, and not just for specific user, or the program will not run.**
 
 ___
 
@@ -213,3 +213,4 @@ ___
 
 
 If you encounter any issues during the installation process, feel free to reach out to me for assistance at [fairbou2@msu.edu](mailto:fairbou2@msu.edu).
+
