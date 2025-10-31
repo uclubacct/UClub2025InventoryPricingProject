@@ -32,8 +32,12 @@ python UClub2025InventoryPricingProject/master_program.py
 ## Example Step by Step:
   1. Place a newly scanned Sysco invoice into 'inputs\\invoices\\' following a format exactly like 'references\\Sanitized_Redacted_Invoice_Reference.pdf' 
   2. Place last month's inventory sheet with its edits and changes into 'inputs\\inventories\\' following a format exactly like 'references\\input-inventory_reference_sheet_2025-Oct-27.xlsx'
-  3. Run the program 'master_pricing.py'. 
-  4. Open 'deliverables\\printable_inventory_sheet.xlsx' or a copy of it and hide any columns that might be deemed unnecessary for the inventory counter. Recommended columns include 'VENDOR_CODE', 'EST_PRICE', 'TOTAL_EST_PRICE', and then print the sheet.
+  3. Run the program 'master_pricing.py'.
+     -  ```bash
+        venv\Scripts\activate
+        python UClub2025InventoryPricingProject/master_program.py
+        ```
+  5. Open 'deliverables\\printable_inventory_sheet.xlsx' or a copy of it and hide any columns that might be deemed unnecessary for the inventory counter. Recommended columns include 'VENDOR_CODE', 'EST_PRICE', 'TOTAL_EST_PRICE', and then print the sheet.
 
 ## Optional Continuation:
   - It is possible new items were purchased that did not already exist in the file 'master_pricing.csv', and so those items do not have important information. Log into 'https://shop.sysco.com/auth/login', copy the vendor code into the search bar, and copy relevant information.
@@ -100,3 +104,8 @@ The program is dependent on the columns of the inventory being in the precise or
 * Inserting additional rows to allow for more items to be recorded in the desired area / section. Removing rows as well, meaning that we might not carry that item anymore, or that that item isn't stored in this location anymore. **Note: It is VITAL that the entire row is removed**, not just the first few columns that have information on them.
 * You can fill out additional information for items on Inventory sheet within those first 11 columns, even items we don't have prices for yet. These items, if supplied with a vendor code that matches one in the master pricing list will be automatically included in the items that get updated when the price is updated.
 * Do **NOT** change any of the section names, like MK WALK IN, or STOREROOM or HENRY CENTER FREEZER - SPEED RACK
+
+
+___
+
+The information required to log in to this github account for uclubacct is inside the 'AP Related Log in Info.xlsx' file.
