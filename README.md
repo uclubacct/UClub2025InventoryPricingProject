@@ -26,6 +26,8 @@ There are four things to manage here: the 3 inputs to the program, those being n
     
 ```bash
 venv\Scripts\activate
+```
+```bash
 python UClub2025InventoryPricingProject/master_program.py
 ```
 
@@ -36,6 +38,8 @@ python UClub2025InventoryPricingProject/master_program.py
      -  Open up an Anaconda Prompt, and navigate it to your project folder if it doesn't already open up there, and run these two commands separately. (Look at install.md for instructions)
      -  ```bash
         venv\Scripts\activate
+        ```
+        ```bash
         python UClub2025InventoryPricingProject/master_program.py
         ```
   5. Open 'deliverables\\printable_inventory_sheet.xlsx' or a copy of it and hide any columns that might be deemed unnecessary for the inventory counter. Recommended columns include 'VENDOR_CODE', 'EST_PRICE', 'TOTAL_EST_PRICE', and then print the sheet.
@@ -110,5 +114,6 @@ The program is dependent on the columns of the inventory being in the precise or
 ___
 
 The information required to log in to this github account for uclubacct is inside the 'AP Related Log in Info.xlsx' file.
+
 
 
