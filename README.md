@@ -33,7 +33,7 @@ python UClub2025InventoryPricingProject/master_program.py
   1. Place a newly scanned Sysco invoice into 'inputs\\invoices\\' following a format exactly like 'references\\Sanitized_Redacted_Invoice_Reference.pdf' 
   2. Place last month's inventory sheet with its edits and changes into 'inputs\\inventories\\' following a format exactly like 'references\\input-inventory_reference_sheet_2025-Oct-27.xlsx'
   3. Run the program 'master_pricing.py'.
-     -  Open up an Anaconda Prompt, and navigate it to your project folder if it doesn't already open up there. (Look at install.md for instructions)
+     -  Open up an Anaconda Prompt, and navigate it to your project folder if it doesn't already open up there, and run these two commands separately. (Look at install.md for instructions)
      -  ```bash
         venv\Scripts\activate
         python UClub2025InventoryPricingProject/master_program.py
@@ -110,4 +110,5 @@ The program is dependent on the columns of the inventory being in the precise or
 ___
 
 The information required to log in to this github account for uclubacct is inside the 'AP Related Log in Info.xlsx' file.
+
 
